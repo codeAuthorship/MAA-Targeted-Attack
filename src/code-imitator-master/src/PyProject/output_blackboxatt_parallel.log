@@ -1,0 +1,1195 @@
+0.0 19.0
+0.0 14.3333
+0.0 19.0
+0.0 14.3333
+0.0 19.0
+0.0 14.3333
+0.0 19.0
+0.0 14.3333
+0.0 19.0
+0.0 14.3333
+0.0 19.0
+0.0 14.3333
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['iPeter'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 16:58:13,551 - INFO - ~~> Best Instance: winner_0:`compoundstmt_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/iPeter/outer_temp/iPeter/3264486_5736519012712448_iPeter.cpp -strategy=2 -seed=1855 -- ...` successfull with 0.8132 (10) [Before:0.8132(10)]
+2022-09-21 16:58:15,202 - INFO - ~~> Best Instance: winner_1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/iPeter/outer_temp/iPeter/3264486_5736519012712448_iPeter.cpp -strategy=scanftocin -seed=1571 -all=True -- ...` successfull with 0.1791 (4) [Before:0.8132(10)]
+2022-09-21 16:58:15,254 - INFO - -----> SUCCESS <----- from iPeter to iPeter 
+
+Attack finished on 3264486_5736519012712448_1
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['4yn'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 17:02:12,504 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_10_Usenix_RF_1.0_False_MCTS_Classic/4yn/outer_temp/4yn/3264486_5736519012712448_4yn.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.2025 (12) [Before:0.4885(0)]
+2022-09-21 17:02:12,613 - INFO - -----> SUCCESS <----- from 4yn to 4yn 
+
+Attack finished on 3264486_5736519012712448_10
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['ccsnoopy'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 17:02:26,074 - INFO - ~~> Best Instance: winner_0:`compoundstmt_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_3_Usenix_RF_1.0_False_MCTS_Classic/ccsnoopy/outer_temp/ccsnoopy/3264486_5736519012712448_ccsnoopy.cpp -strategy=1 -seed=2514 -- ...` successfull with 0.2501 (7) [Before:0.7662(7)]
+2022-09-21 17:02:35,469 - INFO - ~~> Best Instance: winner_1:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_3_Usenix_RF_1.0_False_MCTS_Classic/ccsnoopy/outer_temp/ccsnoopy/3264486_5736519012712448_ccsnoopy.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.1733 (12) [Before:0.7662(7)]
+2022-09-21 17:02:35,509 - INFO - -----> SUCCESS <----- from ccsnoopy to ccsnoopy 
+
+Attack finished on 3264486_5736519012712448_3
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['Tashi711'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 17:03:44,756 - INFO - ~~> Best Instance: winner_0:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/Tashi711/outer_temp/Tashi711/3264486_5736519012712448_Tashi711.cpp -strategy=freopentostdout -seed=4066 -- ...` successfull with 0.1648 (4) [Before:0.4927(3)]
+2022-09-21 17:03:44,806 - INFO - -----> SUCCESS <----- from Tashi711 to Tashi711 
+
+Attack finished on 3264486_5736519012712448_12
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['KhaleD'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 17:04:27,166 - INFO - ~~> Best Instance: winner_0:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_4_Usenix_RF_1.0_False_MCTS_Classic/KhaleD/outer_temp/KhaleD/3264486_5736519012712448_KhaleD.cpp -strategy=printftocout -seed=3879 -all=True -- ...` successfull with 0.1287 (17) [Before:0.6733(1)]
+2022-09-21 17:04:27,203 - INFO - -----> SUCCESS <----- from KhaleD to KhaleD 
+
+Attack finished on 3264486_5736519012712448_4
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['try'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 17:04:35,969 - INFO - ~~> Best Instance: winner_0:`compoundstmt_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/try/outer_temp/try/3264486_5736519012712448_try.cpp -strategy=2 -seed=1855 -- ...` successfull with 0.6967 (18) [Before:0.7042(18)]
+2022-09-21 17:04:37,742 - INFO - ~~> Best Instance: winner_1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/try/outer_temp/try/3264486_5736519012712448_try.cpp -strategy=scanftocin -seed=1571 -all=True -- ...` successfull with 0.246 (12) [Before:0.7042(18)]
+2022-09-21 17:04:37,848 - INFO - -----> SUCCESS <----- from try to try 
+
+Attack finished on 3264486_5736519012712448_13
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['satyaki3794'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 17:04:34,610 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/satyaki3794/outer_temp/satyaki3794/3264486_5736519012712448_satyaki3794.cpp -strategy=freopentostdin -seed=58 -- ...` successfull with 0.2735 (17) [Before:0.6723(17)]
+2022-09-21 17:04:42,653 - INFO - ~~> Best Instance: winner_1:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/satyaki3794/outer_temp/satyaki3794/3264486_5736519012712448_satyaki3794.cpp -strategy=replacetypedef -selection=resolvedependencies -- ...` successfull with 0.1149 (12) [Before:0.6723(17)]
+2022-09-21 17:04:42,673 - INFO - -----> SUCCESS <----- from satyaki3794 to satyaki3794 
+
+Attack finished on 3264486_5736519012712448_8
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['WCG'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 17:04:53,554 - INFO - Final Root Score at 0th-Iter: 0.41507813635, 0.163541328078:
+2022-09-21 17:04:57,240 - INFO - ~~> Best Instance: 0:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/WCG/outer_temp/WCG/3264486_5736519012712448_WCG.cpp -strategy=couttoprintf -seed=1122 -all=True -- ...` successfull with 0.2988 (5) [Before:0.6421(5)]
+2022-09-21 17:05:49,041 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/WCG/outer_temp/WCG/3264486_5736519012712448_WCG.cpp -strategy=stdintofreopen -seed=4232 -- ...` successfull with 0.1992 (12) [Before:0.6421(5)]
+2022-09-21 17:05:49,122 - INFO - -----> SUCCESS <----- from WCG to WCG 
+
+Attack finished on 3264486_5736519012712448_5
+0.0 19.0
+0.0 14.3333
+Could collect authors: Got 1
+Their names are: dict_keys(['Thanabhat'])
+***********************************
+Attack on 1 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2022-09-21 17:07:00,355 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_16_Usenix_RF_1.0_False_MCTS_Classic/Thanabhat/outer_temp/Thanabhat/3264486_5736519012712448_Thanabhat.cpp -strategy=stdintofreopen -seed=1234 -- ...` successfull with 0.2248 (3) [Before:0.7095(4)]
+2022-09-21 17:07:00,376 - INFO - -----> SUCCESS <----- from Thanabhat to Thanabhat 
+
+Attack finished on 3264486_5736519012712448_16
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_1
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_2
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_3
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_4
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_5
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_7
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_8
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_10
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_15
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_16
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_1
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_2
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_3
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_4
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_5
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_7
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_8
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_10
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_15
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_1
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_2
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_3
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_4
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_5
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 0
+Their names are: dict_keys([])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_7
+0.0 19.0
+0.0 15.0
+Check is correct identified: 3264486_5736519012712448_ccsnoopy.cpp  with row: 7
+False with: 0.0724303610333
+Check is correct identified: 3264486_5736519012712448_ibrahim5253.cpp  with row: 11
+True with: 0.358824372795
+Check is correct identified: 3264486_5736519012712448_gultai4ukr.cpp  with row: 9
+True with: 0.338277038385
+Check is correct identified: 3264486_5736519012712448_Mucosolvan.cpp  with row: 2
+False with: 0.208207070707
+Check is correct identified: 3264486_5736519012712448_Thanabhat.cpp  with row: 4
+False with: 0.0219510881276
+Check is correct identified: 3264486_5736519012712448_bennikartefla.cpp  with row: 6
+True with: 0.192114911233
+Check is correct identified: 3264486_5736519012712448_sammyMaX.cpp  with row: 16
+False with: 0.0256893161305
+Check is correct identified: 3264486_5736519012712448_okaduki.cpp  with row: 15
+True with: 0.442183755787
+Check is correct identified: 3264486_5736519012712448_lazyBit.cpp  with row: 14
+True with: 0.384827781151
+Check is correct identified: 3264486_5736519012712448_satyaki3794.cpp  with row: 17
+False with: 0.0582547762695
+Check is correct identified: 3264486_5736519012712448_try.cpp  with row: 19
+False with: 0.05561349054
+Check is correct identified: 3264486_5736519012712448_WCG.cpp  with row: 5
+False with: 0.0765445066916
+Check is correct identified: 3264486_5736519012712448_iPeter.cpp  with row: 10
+False with: 0.00412210338681
+Check is correct identified: 3264486_5736519012712448_kuzphi.cpp  with row: 13
+True with: 0.468615684425
+Check is correct identified: 3264486_5736519012712448_fragusbot.cpp  with row: 8
+False with: 0.0100490196078
+Could collect authors: Got 6
+Their names are: dict_keys(['ibrahim5253', 'gultai4ukr', 'bennikartefla', 'okaduki', 'lazyBit', 'kuzphi'])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_2
+0.0 19.0
+0.0 15.0
+Check is correct identified: 3264486_5736519012712448_lazyBit.cpp  with row: 14
+True with: 0.384827781151
+Check is correct identified: 3264486_5736519012712448_gultai4ukr.cpp  with row: 9
+True with: 0.338277038385
+Check is correct identified: 3264486_5736519012712448_Mucosolvan.cpp  with row: 2
+False with: 0.208207070707
+Check is correct identified: 3264486_5736519012712448_Thanabhat.cpp  with row: 4
+False with: 0.0219510881276
+Check is correct identified: 3264486_5736519012712448_Tashi711.cpp  with row: 3
+False with: 0.105245326569
+Check is correct identified: 3264486_5736519012712448_jiian.cpp  with row: 12
+False with: 0.0510455231043
+Check is correct identified: 3264486_5736519012712448_fragusbot.cpp  with row: 8
+False with: 0.0100490196078
+Check is correct identified: 3264486_5736519012712448_ibrahim5253.cpp  with row: 11
+True with: 0.358824372795
+Check is correct identified: 3264486_5736519012712448_sammyMaX.cpp  with row: 16
+False with: 0.0256893161305
+Check is correct identified: 3264486_5736519012712448_try.cpp  with row: 19
+False with: 0.05561349054
+Check is correct identified: 3264486_5736519012712448_satyaki3794.cpp  with row: 17
+False with: 0.0582547762695
+Check is correct identified: 3264486_5736519012712448_iPeter.cpp  with row: 10
+False with: 0.00412210338681
+Check is correct identified: 3264486_5736519012712448_ccsnoopy.cpp  with row: 7
+False with: 0.0724303610333
+Check is correct identified: 3264486_5736519012712448_WCG.cpp  with row: 5
+False with: 0.0765445066916
+Check is correct identified: 3264486_5736519012712448_kuzphi.cpp  with row: 13
+True with: 0.468615684425
+Could collect authors: Got 4
+Their names are: dict_keys(['lazyBit', 'gultai4ukr', 'ibrahim5253', 'kuzphi'])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_3
+0.0 19.0
+0.0 15.0
+Check is correct identified: 3264486_5736519012712448_lazyBit.cpp  with row: 14
+True with: 0.384827781151
+Check is correct identified: 3264486_5736519012712448_Thanabhat.cpp  with row: 4
+False with: 0.0219510881276
+Check is correct identified: 3264486_5736519012712448_sammyMaX.cpp  with row: 16
+False with: 0.0256893161305
+Check is correct identified: 3264486_5736519012712448_jiian.cpp  with row: 12
+False with: 0.0510455231043
+Check is correct identified: 3264486_5736519012712448_ccsnoopy.cpp  with row: 7
+False with: 0.0724303610333
+Check is correct identified: 3264486_5736519012712448_Tashi711.cpp  with row: 3
+False with: 0.105245326569
+Check is correct identified: 3264486_5736519012712448_Mucosolvan.cpp  with row: 2
+False with: 0.208207070707
+Check is correct identified: 3264486_5736519012712448_ibrahim5253.cpp  with row: 11
+True with: 0.358824372795
+Check is correct identified: 3264486_5736519012712448_bennikartefla.cpp  with row: 6
+True with: 0.192114911233
+Check is correct identified: 3264486_5736519012712448_iPeter.cpp  with row: 10
+False with: 0.00412210338681
+Check is correct identified: 3264486_5736519012712448_WCG.cpp  with row: 5
+False with: 0.0765445066916
+Check is correct identified: 3264486_5736519012712448_okaduki.cpp  with row: 15
+True with: 0.442183755787
+Check is correct identified: 3264486_5736519012712448_kuzphi.cpp  with row: 13
+True with: 0.468615684425
+Check is correct identified: 3264486_5736519012712448_gultai4ukr.cpp  with row: 9
+True with: 0.338277038385
+Check is correct identified: 3264486_5736519012712448_fragusbot.cpp  with row: 8
+False with: 0.0100490196078
+Check is correct identified: 3264486_5736519012712448_satyaki3794.cpp  with row: 17
+False with: 0.0582547762695
+Could collect authors: Got 6
+Their names are: dict_keys(['lazyBit', 'ibrahim5253', 'bennikartefla', 'okaduki', 'kuzphi', 'gultai4ukr'])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_4
+0.0 19.0
+0.0 15.0
+Check is correct identified: 3264486_5736519012712448_iPeter.cpp  with row: 10
+False with: 0.00412210338681
+Check is correct identified: 3264486_5736519012712448_ccsnoopy.cpp  with row: 7
+False with: 0.0724303610333
+Check is correct identified: 3264486_5736519012712448_lazyBit.cpp  with row: 14
+True with: 0.384827781151
+Check is correct identified: 3264486_5736519012712448_try.cpp  with row: 19
+False with: 0.05561349054
+Check is correct identified: 3264486_5736519012712448_okaduki.cpp  with row: 15
+True with: 0.442183755787
+Check is correct identified: 3264486_5736519012712448_fragusbot.cpp  with row: 8
+False with: 0.0100490196078
+Check is correct identified: 3264486_5736519012712448_Mucosolvan.cpp  with row: 2
+False with: 0.208207070707
+Check is correct identified: 3264486_5736519012712448_ibrahim5253.cpp  with row: 11
+True with: 0.358824372795
+Check is correct identified: 3264486_5736519012712448_Thanabhat.cpp  with row: 4
+False with: 0.0219510881276
+Check is correct identified: 3264486_5736519012712448_bennikartefla.cpp  with row: 6
+True with: 0.192114911233
+Check is correct identified: 3264486_5736519012712448_WCG.cpp  with row: 5
+False with: 0.0765445066916
+Check is correct identified: 3264486_5736519012712448_gultai4ukr.cpp  with row: 9
+True with: 0.338277038385
+Check is correct identified: 3264486_5736519012712448_Tashi711.cpp  with row: 3
+False with: 0.105245326569
+Check is correct identified: 3264486_5736519012712448_jiian.cpp  with row: 12
+False with: 0.0510455231043
+Check is correct identified: 3264486_5736519012712448_kuzphi.cpp  with row: 13
+True with: 0.468615684425
+Could collect authors: Got 6
+Their names are: dict_keys(['lazyBit', 'okaduki', 'ibrahim5253', 'bennikartefla', 'gultai4ukr', 'kuzphi'])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_8
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 6
+Their names are: dict_keys(['bennikartefla', 'kuzphi', 'lazyBit', 'okaduki', 'gultai4ukr', 'ibrahim5253'])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_2
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 4
+Their names are: dict_keys(['kuzphi', 'lazyBit', 'ibrahim5253', 'gultai4ukr'])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_3
+0.0 19.0
+0.0 15.0
+Could collect authors: Got 6
+Their names are: dict_keys(['ibrahim5253', 'gultai4ukr', 'bennikartefla', 'lazyBit', 'okaduki', 'kuzphi'])
+***********************************
+Attack on 0 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_4
+0.0 33.0
+0.0 22.0
+0.0 33.0
+0.0 22.0
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 7
+Their names are: dict_keys(['ACMonster', 'ALOHA.Brcps', 'Alireza.bh', 'Astein', 'Balajiganapathi', 'Birukhatri', 'DAle'])
+***********************************
+Attack on 7 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_1
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 11
+Their names are: dict_keys(['Efgen', 'EiLx2', 'EricXu', 'FedePousa', 'Grandrogue', 'Gromah', 'GuaiNiGuoFenMeiLi', 'HTC', 'House93', 'Hurski', 'ImBarD'])
+***********************************
+Attack on 11 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_2
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 7
+Their names are: dict_keys(['ACMonster', 'ALOHA.Brcps', 'Alireza.bh', 'Astein', 'Balajiganapathi', 'Birukhatri', 'DAle'])
+***********************************
+Attack on 7 pairs
+***********************************
+Attack finished on 3264486_5736519012712448_1
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 10
+Their names are: dict_keys(['cabinfever', 'ccsnoopy', 'chaplin', 'chocimir', 'csegura', 'daninnm', 'davi0015', 'disneyp', 'dothanhlam97', 'eagle93'])
+***********************************
+Attack on 10 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:24:00,847 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/cabinfever/outer_temp/cabinfever/3264486_5736519012712448_cabinfever.cpp -strategy=freopentostdin -seed=4686 -- ...` successfull with 0.0115 (166) [Before:0.2928(84)]
+2023-02-08 13:24:00,884 - INFO - -----> SUCCESS <----- from cabinfever to cabinfever 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:29:28,855 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/ccsnoopy/outer_temp/ccsnoopy/3264486_5736519012712448_ccsnoopy.cpp -from_declname="str" -into_declname="" -seed=4498 -- ...` successfull with 0.0788 (199) [Before:0.3157(85)]
+2023-02-08 13:29:28,892 - INFO - -----> SUCCESS <----- from ccsnoopy to ccsnoopy 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:31:45,912 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/chaplin/outer_temp/chaplin/3264486_5736519012712448_chaplin.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.0525 (28) [Before:0.0842(86)]
+2023-02-08 13:31:46,038 - INFO - -----> SUCCESS <----- from chaplin to chaplin 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:34:12,611 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/chocimir/outer_temp/chocimir/3264486_5736519012712448_chocimir.cpp -from_declname="t" -into_declname="" -seed=1122 -- ...` successfull with 0.151 (181) [Before:0.3159(87)]
+2023-02-08 13:34:19,183 - INFO - ~~> Best Instance: winner_1:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/chocimir/outer_temp/chocimir/3264486_5736519012712448_chocimir.cpp -strategy=replacetypedef -selection=resolvedependencies -- ...` successfull with 0.1438 (181) [Before:0.3159(87)]
+2023-02-08 13:34:19,219 - INFO - -----> SUCCESS <----- from chocimir to chocimir 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:42:00,027 - INFO - ~~> Best Instance: winner_0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/csegura/outer_temp/csegura/3264486_5736519012712448_csegura.cpp -strategy=S_AddReturnStmt -- ...` successfull with 0.0875 (11) [Before:0.3108(89)]
+2023-02-08 13:42:06,037 - INFO - ~~> Best Instance: winner_1:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/csegura/outer_temp/csegura/3264486_5736519012712448_csegura.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.0527 (11) [Before:0.3108(89)]
+2023-02-08 13:42:06,062 - INFO - -----> SUCCESS <----- from csegura to csegura 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:43:27,502 - INFO - ~~> Best Instance: winner_0:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/daninnm/outer_temp/daninnm/3264486_5736519012712448_daninnm.cpp -strategy=couttoprintf -seed=3961 -all=True -- ...` successfull with 0.0851 (28) [Before:0.2288(90)]
+2023-02-08 13:43:27,565 - INFO - -----> SUCCESS <----- from daninnm to daninnm 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:45:56,540 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/davi0015/outer_temp/davi0015/3264486_5736519012712448_davi0015.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.1031 (201) [Before:0.3237(92)]
+2023-02-08 13:45:56,709 - INFO - -----> SUCCESS <----- from davi0015 to davi0015 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:47:17,847 - INFO - ~~> Best Instance: winner_0:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/disneyp/outer_temp/disneyp/3264486_5736519012712448_disneyp.cpp -strategy=couttoprintf -seed=2665 -all=True -- ...` successfull with 0.1007 (54) [Before:0.2479(93)]
+2023-02-08 13:47:17,957 - INFO - -----> SUCCESS <----- from disneyp to disneyp 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:51:00,423 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/dothanhlam97/outer_temp/dothanhlam97/3264486_5736519012712448_dothanhlam97.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.1287 (103) [Before:0.2634(94)]
+2023-02-08 13:51:00,527 - INFO - -----> SUCCESS <----- from dothanhlam97 to dothanhlam97 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:56:14,074 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/eagle93/outer_temp/eagle93/3264486_5736519012712448_eagle93.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.1577 (95) [Before:0.3205(95)]
+2023-02-08 13:56:24,759 - INFO - ~~> Best Instance: winner_1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_8_Usenix_RF_1.0_False_MCTS_Classic/eagle93/outer_temp/eagle93/3264486_5736519012712448_eagle93.cpp -strategy=freopentostdin -seed=522 -- ...` successfull with 0.0334 (32) [Before:0.3205(95)]
+2023-02-08 13:56:24,778 - INFO - -----> SUCCESS <----- from eagle93 to eagle93 
+
+Attack finished on 3264486_5736519012712448_8
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 11
+Their names are: dict_keys(['Shloub', 'Shuto', 'SiruPorong', 'SlavaSSU', 'StillFantasy', 'SummerDAway', 'Tashiqi', 'Tblock', 'Thanabhat', 'TheEnglishMajor27', 'TrePe'])
+***********************************
+Attack on 11 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:27:36,168 - INFO - Final Root Score at 0th-Iter: 0.219891647757, 0.0665511066874:
+2023-02-08 13:27:41,678 - INFO - ~~> Best Instance: 0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/Shloub/outer_temp/Shloub/3264486_5736519012712448_Shloub.cpp -from_declname="T" -into_declname="" -seed=2978 -- ...` successfull with 0.1949 (48) [Before:0.3094(48)]
+2023-02-08 13:32:14,954 - INFO - ~~> Best Instance: winner_0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/Shloub/outer_temp/Shloub/3264486_5736519012712448_Shloub.cpp -strategy=S_AddReturnStmt -- ...` successfull with 0.0786 (22) [Before:0.3094(48)]
+2023-02-08 13:32:14,979 - INFO - -----> SUCCESS <----- from Shloub to Shloub 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:45:15,927 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/Shuto/outer_temp/Shuto/3264486_5736519012712448_Shuto.cpp -strategy=addtypedefs -selection=selectrandomly -seed=783 -- ...` successfull with 0.0496 (77) [Before:0.3258(49)]
+2023-02-08 13:45:15,972 - INFO - -----> SUCCESS <----- from Shuto to Shuto 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:46:11,983 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SiruPorong/outer_temp/SiruPorong/3264486_5736519012712448_SiruPorong.cpp -strategy=scanftocin -seed=2559 -all=True -- ...` successfull with 0.1291 (50) [Before:0.2782(50)]
+2023-02-08 13:46:17,843 - INFO - ~~> Best Instance: winner_1:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SiruPorong/outer_temp/SiruPorong/3264486_5736519012712448_SiruPorong.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.088 (154) [Before:0.2782(50)]
+2023-02-08 13:46:17,950 - INFO - -----> SUCCESS <----- from SiruPorong to SiruPorong 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:48:20,208 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SlavaSSU/temp36/SlavaSSU/execute_extractfeats.sh: line 42: 1214959 Aborted                 (core dumped) /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SlavaSSU/temp36/SlavaSSU/3264486_5736519012712448_SlavaSSU.ifo > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SlavaSSU/temp36/SlavaSSU/A-small-practice_transformation.out 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SlavaSSU/temp36/SlavaSSU/3264486_5736519012712448_SlavaSSU.execute.stderr\n'
+2023-02-08 13:48:20,212 - ERROR - 36-th MCTS Sequence failed at the end due to: Output file has changed!!
+
+2023-02-08 13:49:53,979 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SlavaSSU/outer_temp/SlavaSSU/3264486_5736519012712448_SlavaSSU.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.2495 (51) [Before:0.3016(51)]
+2023-02-08 13:50:02,414 - INFO - ~~> Best Instance: winner_1:`unused_declarations_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SlavaSSU/outer_temp/SlavaSSU/3264486_5736519012712448_SlavaSSU.cpp -strategy=remove_global_decl -seed=3691 -all=True -- ...` successfull with 0.0826 (190) [Before:0.3016(51)]
+2023-02-08 13:50:02,445 - INFO - -----> SUCCESS <----- from SlavaSSU to SlavaSSU 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:53:18,797 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/StillFantasy/outer_temp/StillFantasy/3264486_5736519012712448_StillFantasy.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.1136 (109) [Before:0.2464(52)]
+2023-02-08 13:53:18,978 - INFO - -----> SUCCESS <----- from StillFantasy to StillFantasy 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:57:00,734 - INFO - ~~> Best Instance: winner_0:`for_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SummerDAway/outer_temp/SummerDAway/3264486_5736519012712448_SummerDAway.cpp -seed=2750 -- ...` successfull with 0.1124 (53) [Before:0.3084(53)]
+2023-02-08 13:57:06,643 - INFO - ~~> Best Instance: winner_1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/SummerDAway/outer_temp/SummerDAway/3264486_5736519012712448_SummerDAway.cpp -strategy=scanftocin -seed=1213 -all=True -- ...` successfull with 0.078 (181) [Before:0.3084(53)]
+2023-02-08 13:57:06,685 - INFO - -----> SUCCESS <----- from SummerDAway to SummerDAway 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:59:12,987 - INFO - ~~> Best Instance: winner_0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/Tashiqi/outer_temp/Tashiqi/3264486_5736519012712448_Tashiqi.cpp -strategy=S_IntLiteral -seed=2341 -- ...` successfull with 0.0488 (196) [Before:0.1895(55)]
+2023-02-08 13:59:17,152 - INFO - ~~> Best Instance: winner_1:`for_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/Tashiqi/outer_temp/Tashiqi/3264486_5736519012712448_Tashiqi.cpp -seed=436 -- ...` successfull with 0.0488 (196) [Before:0.1895(55)]
+2023-02-08 13:59:17,222 - INFO - -----> SUCCESS <----- from Tashiqi to Tashiqi 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:01:37,384 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/Tblock/outer_temp/Tblock/3264486_5736519012712448_Tblock.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.1835 (57) [Before:0.2382(56)]
+2023-02-08 14:01:37,462 - INFO - -----> SUCCESS <----- from Tblock to Tblock 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:03:48,539 - INFO - ~~> Best Instance: winner_0:`input_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/Thanabhat/outer_temp/Thanabhat/3264486_5736519012712448_Thanabhat.cpp -strategy=cintoifstream -seed=2711 -- ...` successfull with 0.1006 (17) [Before:0.3118(57)]
+2023-02-08 14:03:48,575 - INFO - -----> SUCCESS <----- from Thanabhat to Thanabhat 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:07:26,564 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/TheEnglishMajor27/outer_temp/TheEnglishMajor27/3264486_5736519012712448_TheEnglishMajor27.cpp -strategy=replacetypedef -selection=resolvedependencies -- ...` successfull with 0.1188 (34) [Before:0.2638(58)]
+2023-02-08 14:07:35,488 - INFO - ~~> Best Instance: winner_1:`for_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/TheEnglishMajor27/outer_temp/TheEnglishMajor27/3264486_5736519012712448_TheEnglishMajor27.cpp -seed=4444 -- ...` successfull with 0.1181 (34) [Before:0.2638(58)]
+2023-02-08 14:07:35,547 - INFO - -----> SUCCESS <----- from TheEnglishMajor27 to TheEnglishMajor27 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:08:26,645 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/TrePe/outer_temp/TrePe/3264486_5736519012712448_TrePe.cpp -strategy=scanftocin -seed=2559 -all=True -- ...` successfull with 0.0698 (138) [Before:0.3096(59)]
+2023-02-08 14:08:31,646 - INFO - ~~> Best Instance: winner_1:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_5_Usenix_RF_1.0_False_MCTS_Classic/TrePe/outer_temp/TrePe/3264486_5736519012712448_TrePe.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.0542 (22) [Before:0.3096(59)]
+2023-02-08 14:08:31,717 - INFO - -----> SUCCESS <----- from TrePe to TrePe 
+
+Attack finished on 3264486_5736519012712448_5
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 11
+Their names are: dict_keys(['ZooL', 'abhisheksaini', 'abisheka', 'aki33524', 'akulsareen', 'alin42', 'aman.chandna', 'angwuy', 'bigelephant29', 'bogeyman', 'burden'])
+***********************************
+Attack on 11 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:28:10,449 - INFO - ~~> Best Instance: winner_0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/ZooL/outer_temp/ZooL/3264486_5736519012712448_ZooL.cpp -strategy=S_IntLiteral -seed=2164 -- ...` successfull with 0.073 (143) [Before:0.2993(72)]
+2023-02-08 13:28:10,478 - INFO - -----> SUCCESS <----- from ZooL to ZooL 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:39:47,147 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/abhisheksaini/outer_temp/abhisheksaini/3264486_5736519012712448_abhisheksaini.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.0549 (49) [Before:0.2892(73)]
+2023-02-08 13:39:58,415 - INFO - ~~> Best Instance: winner_1:`fctcreator_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/abhisheksaini/outer_temp/abhisheksaini/3264486_5736519012712448_abhisheksaini.cpp -strategy=add_function_compound -chooseLocationStrategy=arbitrary -seed=4527 -- ...` successfull with 0.0585 (49) [Before:0.2892(73)]
+2023-02-08 13:39:58,437 - INFO - -----> SUCCESS <----- from abhisheksaini to abhisheksaini 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:43:15,518 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/abisheka/outer_temp/abisheka/3264486_5736519012712448_abisheka.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.1451 (74) [Before:0.3127(74)]
+2023-02-08 13:43:21,197 - INFO - ~~> Best Instance: winner_1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/abisheka/outer_temp/abisheka/3264486_5736519012712448_abisheka.cpp -strategy=freopentostdin -seed=198 -- ...` successfull with 0.0733 (98) [Before:0.3127(74)]
+2023-02-08 13:43:21,238 - INFO - -----> SUCCESS <----- from abisheka to abisheka 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:46:43,779 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/aki33524/outer_temp/aki33524/3264486_5736519012712448_aki33524.cpp -from_declname="solve" -into_declname="" -seed=2978 -- ...` successfull with 0.1602 (198) [Before:0.2634(75)]
+2023-02-08 13:46:43,849 - INFO - -----> SUCCESS <----- from aki33524 to aki33524 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:51:48,547 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/akulsareen/outer_temp/akulsareen/3264486_5736519012712448_akulsareen.cpp -from_declname="t" -into_declname="" -seed=4686 -- ...` successfull with 0.0252 (166) [Before:0.2805(76)]
+2023-02-08 13:51:48,580 - INFO - -----> SUCCESS <----- from akulsareen to akulsareen 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:56:03,750 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/alin42/outer_temp/alin42/3264486_5736519012712448_alin42.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.097 (88) [Before:0.2938(77)]
+2023-02-08 13:56:03,854 - INFO - -----> SUCCESS <----- from alin42 to alin42 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:59:06,959 - ERROR - 11-th MCTS Sequence failed at the end due to: Output file has changed!!
+
+2023-02-08 13:59:06,961 - ERROR - 21-th MCTS Sequence failed at the end due to: Output file has changed!!
+
+2023-02-08 14:02:49,554 - INFO - ~~> Best Instance: winner_0:`fctcreator_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/aman.chandna/outer_temp/aman.chandna/3264486_5736519012712448_aman.chandna.cpp -strategy=add_function_compound -chooseLocationStrategy=deepest -- ...` successfull with 0.174 (78) [Before:0.3028(78)]
+2023-02-08 14:02:59,961 - INFO - ~~> Best Instance: winner_1:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/aman.chandna/outer_temp/aman.chandna/3264486_5736519012712448_aman.chandna.cpp -strategy=freopentostdout -seed=1213 -- ...` successfull with 0.0498 (166) [Before:0.3028(78)]
+2023-02-08 14:03:00,000 - INFO - -----> SUCCESS <----- from aman.chandna to aman.chandna 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:03:51,498 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/angwuy/outer_temp/angwuy/3264486_5736519012712448_angwuy.cpp -strategy=scanftocin -seed=2559 -all=True -- ...` successfull with 0.1111 (79) [Before:0.3302(79)]
+2023-02-08 14:03:57,099 - INFO - ~~> Best Instance: winner_1:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/angwuy/outer_temp/angwuy/3264486_5736519012712448_angwuy.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.0798 (22) [Before:0.3302(79)]
+2023-02-08 14:03:57,245 - INFO - -----> SUCCESS <----- from angwuy to angwuy 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:04:58,219 - INFO - ~~> Best Instance: winner_0:`fctcreator_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/bigelephant29/outer_temp/bigelephant29/3264486_5736519012712448_bigelephant29.cpp -strategy=add_function_compound -chooseLocationStrategy=deepest -- ...` successfull with 0.163 (79) [Before:0.224(81)]
+2023-02-08 14:04:58,357 - INFO - -----> SUCCESS <----- from bigelephant29 to bigelephant29 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:10:20,116 - INFO - ~~> Best Instance: winner_0:`fctcreator_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/bogeyman/outer_temp/bogeyman/3264486_5736519012712448_bogeyman.cpp -strategy=add_function_compound -chooseLocationStrategy=deepest -- ...` successfull with 0.0617 (82) [Before:0.265(82)]
+2023-02-08 14:10:28,972 - INFO - ~~> Best Instance: winner_1:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/bogeyman/outer_temp/bogeyman/3264486_5736519012712448_bogeyman.cpp -strategy=freopentostdout -seed=3216 -- ...` successfull with 0.029 (143) [Before:0.265(82)]
+2023-02-08 14:10:29,008 - INFO - -----> SUCCESS <----- from bogeyman to bogeyman 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:11:45,443 - INFO - ~~> Best Instance: winner_0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/burden/outer_temp/burden/3264486_5736519012712448_burden.cpp -strategy=S_IntLiteral -seed=2341 -- ...` successfull with 0.1421 (83) [Before:0.3211(83)]
+2023-02-08 14:11:48,262 - INFO - ~~> Best Instance: winner_1:`for_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_7_Usenix_RF_1.0_False_MCTS_Classic/burden/outer_temp/burden/3264486_5736519012712448_burden.cpp -seed=436 -- ...` successfull with 0.1309 (65) [Before:0.3211(83)]
+2023-02-08 14:11:48,368 - INFO - -----> SUCCESS <----- from burden to burden 
+
+Attack finished on 3264486_5736519012712448_7
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 8
+Their names are: dict_keys(['TrueBamboo', 'TuanNM', 'TungNP', 'UncleGrandpa', 'WCG', 'Wellan', 'Witalia', 'ZanderShah'])
+***********************************
+Attack on 8 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:21:23,097 - INFO - ~~> Best Instance: winner_0:`init_decl_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/TrueBamboo/outer_temp/TrueBamboo/3264486_5736519012712448_TrueBamboo.cpp -strategy=move_in_decls -seed=4359 -- ...` successfull with 0.1328 (193) [Before:0.2139(60)]
+2023-02-08 13:21:23,294 - INFO - -----> SUCCESS <----- from TrueBamboo to TrueBamboo 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:25:54,853 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/TuanNM/outer_temp/TuanNM/3264486_5736519012712448_TuanNM.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.0903 (62) [Before:0.2835(61)]
+2023-02-08 13:25:54,988 - INFO - -----> SUCCESS <----- from TuanNM to TuanNM 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:29:07,519 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/TungNP/outer_temp/TungNP/3264486_5736519012712448_TungNP.cpp -from_declname="k" -into_declname="" -seed=785 -- ...` successfull with 0.1797 (63) [Before:0.2548(63)]
+2023-02-08 13:29:11,593 - INFO - ~~> Best Instance: winner_1:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/TungNP/outer_temp/TungNP/3264486_5736519012712448_TungNP.cpp -strategy=couttoprintf -seed=1095 -all=True -- ...` successfull with 0.1263 (41) [Before:0.2548(63)]
+2023-02-08 13:29:11,616 - INFO - -----> SUCCESS <----- from TungNP to TungNP 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:32:35,761 - INFO - ~~> Best Instance: winner_0:`init_decl_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/UncleGrandpa/outer_temp/UncleGrandpa/3264486_5736519012712448_UncleGrandpa.cpp -strategy=move_out_decls -seed=1788 -- ...` successfull with 0.1524 (64) [Before:0.1948(64)]
+2023-02-08 13:32:43,160 - INFO - ~~> Best Instance: winner_1:`datastructure_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/UncleGrandpa/outer_temp/UncleGrandpa/3264486_5736519012712448_UncleGrandpa.cpp -strategy=3 -seed=1346 -- ...` successfull with 0.0965 (16) [Before:0.1948(64)]
+2023-02-08 13:32:43,195 - INFO - -----> SUCCESS <----- from UncleGrandpa to UncleGrandpa 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:36:21,041 - INFO - ~~> Best Instance: winner_0:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/WCG/outer_temp/WCG/3264486_5736519012712448_WCG.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.0821 (172) [Before:0.3203(66)]
+2023-02-08 13:36:21,075 - INFO - -----> SUCCESS <----- from WCG to WCG 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:39:40,760 - INFO - ~~> Best Instance: winner_0:`input_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/Wellan/outer_temp/Wellan/3264486_5736519012712448_Wellan.cpp -strategy=cintoifstream -seed=1818 -- ...` successfull with 0.0749 (11) [Before:0.308(67)]
+2023-02-08 13:39:40,792 - INFO - -----> SUCCESS <----- from Wellan to Wellan 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:57:16,921 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/Witalia/outer_temp/Witalia/3264486_5736519012712448_Witalia.cpp -from_declname="T" -into_declname="" -seed=4320 -- ...` successfull with 0.0451 (5) [Before:0.3212(68)]
+2023-02-08 13:57:16,965 - INFO - -----> SUCCESS <----- from Witalia to Witalia 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:07:40,379 - INFO - Final Root Score at 0th-Iter: 0.20069866893, 0.0396522631843:
+2023-02-08 14:07:46,401 - INFO - ~~> Best Instance: 0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/ZanderShah/outer_temp/ZanderShah/3264486_5736519012712448_ZanderShah.cpp -from_declname="T" -into_declname="" -seed=2978 -- ...` successfull with 0.1867 (71) [Before:0.236(71)]
+2023-02-08 14:15:46,673 - INFO - ~~> Best Instance: winner_0:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/ZanderShah/outer_temp/ZanderShah/3264486_5736519012712448_ZanderShah.cpp -strategy=stdouttofreopen -seed=4725 -- ...` successfull with 0.0958 (82) [Before:0.236(71)]
+2023-02-08 14:15:54,481 - INFO - ~~> Best Instance: winner_1:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_6_Usenix_RF_1.0_False_MCTS_Classic/ZanderShah/outer_temp/ZanderShah/3264486_5736519012712448_ZanderShah.cpp -from_declname="r" -into_declname="" -seed=3608 -- ...` successfull with 0.0958 (82) [Before:0.236(71)]
+2023-02-08 14:15:54,535 - INFO - -----> SUCCESS <----- from ZanderShah to ZanderShah 
+
+Attack finished on 3264486_5736519012712448_6
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 7
+Their names are: dict_keys(['ACMonster', 'ALOHA.Brcps', 'Alireza.bh', 'Astein', 'Balajiganapathi', 'Birukhatri', 'DAle'])
+***********************************
+Attack on 7 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:20:51,041 - INFO - ~~> Best Instance: winner_0:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/ACMonster/outer_temp/ACMonster/3264486_5736519012712448_ACMonster.cpp -strategy=printftocout -seed=3232 -all=True -- ...` successfull with 0.1561 (181) [Before:0.1935(2)]
+2023-02-08 13:20:51,181 - INFO - -----> SUCCESS <----- from ACMonster to ACMonster 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:23:06,425 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/ALOHA.Brcps/outer_temp/ALOHA.Brcps/3264486_5736519012712448_ALOHA.Brcps.cpp -from_declname="T" -into_declname="" -seed=2965 -- ...` successfull with 0.0445 (50) [Before:0.2797(3)]
+2023-02-08 13:23:11,610 - INFO - ~~> Best Instance: winner_1:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/ALOHA.Brcps/outer_temp/ALOHA.Brcps/3264486_5736519012712448_ALOHA.Brcps.cpp -strategy=S_IntLiteral -seed=2425 -- ...` successfull with 0.0303 (50) [Before:0.2797(3)]
+2023-02-08 13:23:11,684 - INFO - -----> SUCCESS <----- from ALOHA.Brcps to ALOHA.Brcps 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 13:35:37,448 - INFO - Final Root Score at 0th-Iter: 0.248833552588, 0.0650903111247:
+2023-02-08 13:35:43,888 - INFO - ~~> Best Instance: 0:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Alireza.bh/outer_temp/Alireza.bh/3264486_5736519012712448_Alireza.bh.cpp -strategy=freopentostdout -seed=4066 -- ...` successfull with 0.2324 (5) [Before:0.314(5)]
+2023-02-08 13:47:12,388 - INFO - Final Root Score at 1th-Iter: 0.183417775652, 0.0534958158175:
+2023-02-08 13:47:19,288 - INFO - ~~> Best Instance: 1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Alireza.bh/outer_temp/Alireza.bh/3264486_5736519012712448_Alireza.bh.cpp -strategy=freopentostdin -seed=198 -- ...` successfull with 0.1766 (5) [Before:0.314(5)]
+2023-02-08 13:59:16,442 - INFO - Final Root Score at 2th-Iter: 0.150158931236, 0.0319907230085:
+2023-02-08 13:59:22,476 - INFO - ~~> Best Instance: 2:`init_decl_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Alireza.bh/outer_temp/Alireza.bh/3264486_5736519012712448_Alireza.bh.cpp -strategy=move_out_decls -seed=1346 -- ...` successfull with 0.1766 (5) [Before:0.314(5)]
+2023-02-08 14:10:26,999 - INFO - Final Root Score at 3th-Iter: 0.151346554925, 0.0390780296546:
+2023-02-08 14:10:33,229 - INFO - ~~> Best Instance: 3:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Alireza.bh/outer_temp/Alireza.bh/3264486_5736519012712448_Alireza.bh.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.1582 (5) [Before:0.314(5)]
+2023-02-08 14:21:42,573 - INFO - Final Root Score at 4th-Iter: 0.15349841055, 0.0305700228787:
+2023-02-08 14:21:50,583 - INFO - ~~> Best Instance: 4:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Alireza.bh/outer_temp/Alireza.bh/3264486_5736519012712448_Alireza.bh.cpp -from_declname="res" -into_declname="" -seed=2880 -- ...` successfull with 0.1582 (5) [Before:0.314(5)]
+2023-02-08 14:30:58,811 - INFO - ~~> Best Instance: winner_0:`init_decl_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Alireza.bh/outer_temp/Alireza.bh/3264486_5736519012712448_Alireza.bh.cpp -strategy=move_in_decls -seed=4465 -- ...` successfull with 0.1044 (5) [Before:0.314(5)]
+2023-02-08 14:31:08,998 - INFO - ~~> Best Instance: winner_1:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Alireza.bh/outer_temp/Alireza.bh/3264486_5736519012712448_Alireza.bh.cpp -strategy=couttoofstream -seed=1359 -- ...` successfull with 0.1051 (111) [Before:0.314(5)]
+2023-02-08 14:31:09,031 - INFO - -----> SUCCESS <----- from Alireza.bh to Alireza.bh 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:32:30,497 - INFO - ~~> Best Instance: winner_0:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Astein/outer_temp/Astein/3264486_5736519012712448_Astein.cpp -strategy=freopentostdout -seed=4066 -- ...` successfull with 0.1208 (171) [Before:0.2304(8)]
+2023-02-08 14:32:30,605 - INFO - -----> SUCCESS <----- from Astein to Astein 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:40:06,100 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Balajiganapathi/outer_temp/Balajiganapathi/3264486_5736519012712448_Balajiganapathi.cpp -from_declname="i" -into_declname="" -seed=4686 -- ...` successfull with 0.1695 (9) [Before:0.2704(9)]
+2023-02-08 14:40:19,950 - INFO - ~~> Best Instance: winner_1:`unused_declarations_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Balajiganapathi/outer_temp/Balajiganapathi/3264486_5736519012712448_Balajiganapathi.cpp -strategy=remove_global_decl -seed=4017 -all=True -- ...` successfull with 0.0533 (140) [Before:0.2704(9)]
+2023-02-08 14:40:20,003 - INFO - -----> SUCCESS <----- from Balajiganapathi to Balajiganapathi 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:46:46,827 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Birukhatri/outer_temp/Birukhatri/3264486_5736519012712448_Birukhatri.cpp -from_declname="isConst" -into_declname="" -seed=3654 -- ...` successfull with 0.183 (10) [Before:0.3111(10)]
+2023-02-08 14:46:59,881 - INFO - ~~> Best Instance: winner_1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/Birukhatri/outer_temp/Birukhatri/3264486_5736519012712448_Birukhatri.cpp -strategy=freopentostdin -seed=4376 -- ...` successfull with 0.083 (76) [Before:0.3111(10)]
+2023-02-08 14:46:59,916 - INFO - -----> SUCCESS <----- from Birukhatri to Birukhatri 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:55:13,385 - INFO - ~~> Best Instance: winner_0:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/DAle/outer_temp/DAle/3264486_5736519012712448_DAle.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.2699 (11) [Before:0.3453(11)]
+2023-02-08 14:55:20,746 - INFO - ~~> Best Instance: winner_1:`input_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_1_Usenix_RF_1.0_False_MCTS_Classic/DAle/outer_temp/DAle/3264486_5736519012712448_DAle.cpp -strategy=ifstreamtocin -seed=2867 -- ...` successfull with 0.1027 (89) [Before:0.3453(11)]
+2023-02-08 14:55:20,762 - INFO - -----> SUCCESS <----- from DAle to DAle 
+
+Attack finished on 3264486_5736519012712448_1
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 10
+Their names are: dict_keys(['lan496', 'lastonephy', 'likecs', 'liymouse', 'liyufeng', 'luucasv', 'manjunath1996', 'marcospqf', 'mengrao', 'mickeyandkaka'])
+***********************************
+Attack on 10 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:15:39,258 - INFO - ~~> Best Instance: winner_0:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/lan496/outer_temp/lan496/3264486_5736519012712448_lan496.cpp -strategy=couttoprintf -seed=3961 -all=True -- ...` successfull with 0.2057 (116) [Before:0.3055(132)]
+2023-02-08 14:15:39,374 - INFO - -----> SUCCESS <----- from lan496 to lan496 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:17:30,756 - INFO - ~~> Best Instance: winner_0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/lastonephy/outer_temp/lastonephy/3264486_5736519012712448_lastonephy.cpp -strategy=S_IntLiteral -seed=2341 -- ...` successfull with 0.124 (53) [Before:0.169(133)]
+2023-02-08 14:17:35,302 - INFO - ~~> Best Instance: winner_1:`for_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/lastonephy/outer_temp/lastonephy/3264486_5736519012712448_lastonephy.cpp -seed=436 -- ...` successfull with 0.124 (53) [Before:0.169(133)]
+2023-02-08 14:17:35,373 - INFO - -----> SUCCESS <----- from lastonephy to lastonephy 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:21:19,355 - INFO - ~~> Best Instance: winner_0:`init_decl_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/likecs/outer_temp/likecs/3264486_5736519012712448_likecs.cpp -strategy=move_out_decls -seed=1582 -- ...` successfull with 0.1209 (135) [Before:0.2089(135)]
+2023-02-08 14:21:33,619 - INFO - ~~> Best Instance: winner_1:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/likecs/outer_temp/likecs/3264486_5736519012712448_likecs.cpp -strategy=S_IntLiteral -seed=2624 -- ...` successfull with 0.0714 (101) [Before:0.2089(135)]
+2023-02-08 14:21:33,755 - INFO - -----> SUCCESS <----- from likecs to likecs 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:25:21,920 - INFO - ~~> Best Instance: winner_0:`fctcreator_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/liymouse/outer_temp/liymouse/3264486_5736519012712448_liymouse.cpp -strategy=add_function_compound -chooseLocationStrategy=deepest -- ...` successfull with 0.1274 (136) [Before:0.3202(136)]
+2023-02-08 14:25:26,997 - INFO - ~~> Best Instance: winner_1:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/liymouse/outer_temp/liymouse/3264486_5736519012712448_liymouse.cpp -strategy=freopentostdout -seed=1213 -- ...` successfull with 0.0861 (181) [Before:0.3202(136)]
+2023-02-08 14:25:27,023 - INFO - -----> SUCCESS <----- from liymouse to liymouse 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:29:15,937 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/liyufeng/outer_temp/liyufeng/3264486_5736519012712448_liyufeng.cpp -from_declname="t" -into_declname="" -seed=1122 -- ...` successfull with 0.0647 (53) [Before:0.138(137)]
+2023-02-08 14:29:15,958 - INFO - -----> SUCCESS <----- from liyufeng to liyufeng 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:32:49,852 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/luucasv/outer_temp/luucasv/3264486_5736519012712448_luucasv.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.0551 (140) [Before:0.2099(139)]
+2023-02-08 14:32:49,992 - INFO - -----> SUCCESS <----- from luucasv to luucasv 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:40:49,657 - INFO - ~~> Best Instance: winner_0:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/manjunath1996/outer_temp/manjunath1996/3264486_5736519012712448_manjunath1996.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.0697 (110) [Before:0.233(140)]
+2023-02-08 14:40:49,699 - INFO - -----> SUCCESS <----- from manjunath1996 to manjunath1996 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:47:14,442 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/marcospqf/outer_temp/marcospqf/3264486_5736519012712448_marcospqf.cpp -from_declname="t" -into_declname="" -seed=1160 -- ...` successfull with 0.0715 (134) [Before:0.2735(141)]
+2023-02-08 14:47:24,479 - INFO - ~~> Best Instance: winner_1:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/marcospqf/outer_temp/marcospqf/3264486_5736519012712448_marcospqf.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.0712 (134) [Before:0.2735(141)]
+2023-02-08 14:47:24,527 - INFO - -----> SUCCESS <----- from marcospqf to marcospqf 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:52:44,194 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/mengrao/outer_temp/mengrao/3264486_5736519012712448_mengrao.cpp -from_declname="T" -into_declname="" -seed=1577 -- ...` successfull with 0.0813 (142) [Before:0.2934(142)]
+2023-02-08 14:52:50,567 - INFO - ~~> Best Instance: winner_1:`input_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/mengrao/outer_temp/mengrao/3264486_5736519012712448_mengrao.cpp -strategy=cintoifstream -seed=2711 -- ...` successfull with 0.0562 (181) [Before:0.2934(142)]
+2023-02-08 14:52:50,590 - INFO - -----> SUCCESS <----- from mengrao to mengrao 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:05:08,977 - INFO - Final Root Score at 0th-Iter: 0.254585602675, 0.055337336742:
+2023-02-08 15:05:15,512 - INFO - ~~> Best Instance: 0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/mickeyandkaka/outer_temp/mickeyandkaka/3264486_5736519012712448_mickeyandkaka.cpp -strategy=scanftocin -seed=2559 -all=True -- ...` successfull with 0.266 (143) [Before:0.3225(143)]
+2023-02-08 15:12:41,843 - INFO - ~~> Best Instance: winner_0:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_12_Usenix_RF_1.0_False_MCTS_Classic/mickeyandkaka/outer_temp/mickeyandkaka/3264486_5736519012712448_mickeyandkaka.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.079 (72) [Before:0.3225(143)]
+2023-02-08 15:12:41,881 - INFO - -----> SUCCESS <----- from mickeyandkaka to mickeyandkaka 
+
+Attack finished on 3264486_5736519012712448_12
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 7
+Their names are: dict_keys(['moonbing', 'nein', 'nofto', 'ojasdeshpande', 'petwill', 'poao', 'purupuyo'])
+***********************************
+Attack on 7 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:17:39,526 - INFO - ~~> Best Instance: winner_0:`init_decl_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/moonbing/outer_temp/moonbing/3264486_5736519012712448_moonbing.cpp -strategy=move_in_decls -seed=4359 -- ...` successfull with 0.0682 (137) [Before:0.2392(145)]
+2023-02-08 14:17:39,583 - INFO - -----> SUCCESS <----- from moonbing to moonbing 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:31:26,874 - INFO - ~~> Best Instance: winner_0:`compoundstmt_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/nein/outer_temp/nein/3264486_5736519012712448_nein.cpp -strategy=1 -seed=1833 -- ...` successfull with 0.1019 (146) [Before:0.2605(146)]
+2023-02-08 14:31:41,126 - INFO - ~~> Best Instance: winner_1:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/nein/outer_temp/nein/3264486_5736519012712448_nein.cpp -strategy=S_AddReturnStmt -- ...` successfull with 0.0608 (48) [Before:0.2605(146)]
+2023-02-08 14:31:41,175 - INFO - -----> SUCCESS <----- from nein to nein 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:35:55,770 - INFO - ~~> Best Instance: winner_0:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/nofto/outer_temp/nofto/3264486_5736519012712448_nofto.cpp -strategy=couttoprintf -seed=1122 -all=True -- ...` successfull with 0.0715 (130) [Before:0.1799(147)]
+2023-02-08 14:35:55,821 - INFO - -----> SUCCESS <----- from nofto to nofto 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:39:57,697 - INFO - ~~> Best Instance: winner_0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/ojasdeshpande/outer_temp/ojasdeshpande/3264486_5736519012712448_ojasdeshpande.cpp -strategy=S_IntLiteral -seed=2341 -- ...` successfull with 0.0654 (1) [Before:0.1813(149)]
+2023-02-08 14:40:08,753 - INFO - ~~> Best Instance: winner_1:`for_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/ojasdeshpande/outer_temp/ojasdeshpande/3264486_5736519012712448_ojasdeshpande.cpp -seed=436 -- ...` successfull with 0.0655 (1) [Before:0.1813(149)]
+2023-02-08 14:40:08,912 - INFO - -----> SUCCESS <----- from ojasdeshpande to ojasdeshpande 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:46:07,852 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1488235 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2341 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:46:42,098 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1490676 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4860 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:48:56,314 - INFO - Final Root Score at 0th-Iter: 0.300763187654, 0.0549792947663:
+2023-02-08 14:49:11,946 - INFO - ~~> Best Instance: 0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/outer_temp/petwill/3264486_5736519012712448_petwill.cpp -from_declname="getint" -into_declname="" -seed=4359 -- ...` successfull with 0.349 (151) [Before:0.349(151)]
+2023-02-08 14:50:00,532 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp40/petwill/execute.sh: line 6: 1503561 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp40/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=288 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp40/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp40/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:03,148 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1510652 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1510646 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:08,692 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1511083 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1511078 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:14,853 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1511531 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1511526 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:21,010 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1511971 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1511960 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:26,233 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1512405 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1512414 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:30,589 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1512748 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1512753 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:35,928 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1513186 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1513194 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:43,675 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1513556 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1513542 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:49,329 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1514136 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1514139 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:53,960 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1514601 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1514592 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:51:58,444 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1514930 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1514938 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:03,183 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1515436 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1515449 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:08,605 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1515792 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1515803 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:13,494 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1516282 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1516300 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:18,464 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1516732 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1516743 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:22,757 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1517142 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1517149 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:27,215 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1517547 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1517552 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:31,706 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1517948 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1517956 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:36,809 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1518259 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1518266 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:41,727 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1518781 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1518785 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:45,774 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1519183 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1519187 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:49,892 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1519571 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1519577 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:53,925 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1519895 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1519906 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:58,799 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1520283 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1520291 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:52:59,221 - INFO - Final Root Score at 1th-Iter: 0.283201953972, 0.0625488214049:
+2023-02-08 14:53:08,860 - INFO - ~~> Best Instance: 1:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/outer_temp/petwill/3264486_5736519012712448_petwill.cpp -strategy=stdouttofreopen -seed=3945 -- ...` successfull with 0.1593 (151) [Before:0.349(151)]
+2023-02-08 14:54:26,253 - ERROR - Call GNU PARALLEL ERROR:
+
+b'/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/execute.sh: line 6: 1522163 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=4997 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp0/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp7/petwill/execute.sh: line 6: 1523078 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp7/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2647 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp7/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp7/petwill/3264486_5736519012712448_petwill_after_t.cpp\n/home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/execute.sh: line 6: 1523593 Aborted                 (core dumped) /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/cmake-build-release/transformers/naming-transformers/declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.cpp -from_declname="operator<<" -into_declname="" -seed=2877 -- -w -std=c++11 -I/home/seal12/Downloads/clang+llvm-5.0.0-linux-x86_64-ubuntu16.04/lib/clang/5.0.0/include/ -include /home/seal12/Downloads/code-imitator-master/src/LibToolingAST/ourerrors.h 2> /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill.stderr > /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/temp4/petwill/3264486_5736519012712448_petwill_after_t.cpp\n'
+2023-02-08 14:55:38,043 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/petwill/outer_temp/petwill/3264486_5736519012712448_petwill.cpp -strategy=stdintofreopen -seed=1106 -- ...` successfull with 0.0882 (103) [Before:0.349(151)]
+2023-02-08 14:55:38,112 - INFO - -----> SUCCESS <----- from petwill to petwill 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:57:47,648 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/poao/outer_temp/poao/3264486_5736519012712448_poao.cpp -strategy=freopentostdin -seed=522 -- ...` successfull with 0.05 (48) [Before:0.2697(154)]
+2023-02-08 14:57:47,668 - INFO - -----> SUCCESS <----- from poao to poao 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:12:01,237 - INFO - Final Root Score at 0th-Iter: 0.250749770509, 0.0623458658658:
+2023-02-08 15:12:09,350 - INFO - ~~> Best Instance: 0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/purupuyo/outer_temp/purupuyo/3264486_5736519012712448_purupuyo.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.2104 (155) [Before:0.3212(155)]
+2023-02-08 15:19:01,978 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_13_Usenix_RF_1.0_False_MCTS_Classic/purupuyo/outer_temp/purupuyo/3264486_5736519012712448_purupuyo.cpp -from_declname="T" -into_declname="" -seed=4717 -- ...` successfull with 0.088 (5) [Before:0.3212(155)]
+2023-02-08 15:19:02,008 - INFO - -----> SUCCESS <----- from purupuyo to purupuyo 
+
+Attack finished on 3264486_5736519012712448_13
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 8
+Their names are: dict_keys(['jiian', 'jodik', 'killjee', 'king1224', 'kjp4155', 'kojingharang', 'kyleyip', 'kzoacn'])
+***********************************
+Attack on 8 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:12:08,898 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/jiian/outer_temp/jiian/3264486_5736519012712448_jiian.cpp -from_declname="T" -into_declname="" -seed=2978 -- ...` successfull with 0.1073 (199) [Before:0.2896(122)]
+2023-02-08 14:12:08,964 - INFO - -----> SUCCESS <----- from jiian to jiian 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:14:34,846 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/jodik/outer_temp/jodik/3264486_5736519012712448_jodik.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.2042 (89) [Before:0.2731(123)]
+2023-02-08 14:14:34,940 - INFO - -----> SUCCESS <----- from jodik to jodik 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:19:00,596 - INFO - ~~> Best Instance: winner_0:`input_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/killjee/outer_temp/killjee/3264486_5736519012712448_killjee.cpp -strategy=cintoscanf -seed=1160 -all=True -- ...` successfull with 0.3286 (124) [Before:0.3346(124)]
+2023-02-08 14:19:13,542 - INFO - ~~> Best Instance: winner_1:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/killjee/outer_temp/killjee/3264486_5736519012712448_killjee.cpp -strategy=replacetypedef -selection=resolvedependencies -- ...` successfull with 0.1001 (187) [Before:0.3346(124)]
+2023-02-08 14:19:13,657 - INFO - -----> SUCCESS <----- from killjee to killjee 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:20:17,374 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/king1224/outer_temp/king1224/3264486_5736519012712448_king1224.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.1083 (154) [Before:0.1773(125)]
+2023-02-08 14:20:17,464 - INFO - -----> SUCCESS <----- from king1224 to king1224 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:23:28,547 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kjp4155/outer_temp/kjp4155/3264486_5736519012712448_kjp4155.cpp -from_declname="solve" -into_declname="" -seed=1122 -- ...` successfull with 0.1325 (126) [Before:0.2558(126)]
+2023-02-08 14:23:35,256 - INFO - ~~> Best Instance: winner_1:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kjp4155/outer_temp/kjp4155/3264486_5736519012712448_kjp4155.cpp -strategy=replacetypedef -selection=resolvedependencies -- ...` successfull with 0.0987 (89) [Before:0.2558(126)]
+2023-02-08 14:23:35,278 - INFO - -----> SUCCESS <----- from kjp4155 to kjp4155 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:34:15,742 - INFO - Final Root Score at 0th-Iter: 0.256171197099, 0.0469534073465:
+2023-02-08 14:34:25,546 - INFO - ~~> Best Instance: 0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kojingharang/outer_temp/kojingharang/3264486_5736519012712448_kojingharang.cpp -strategy=S_IntLiteral -seed=2341 -- ...` successfull with 0.2488 (127) [Before:0.3017(127)]
+2023-02-08 14:45:31,223 - INFO - Final Root Score at 1th-Iter: 0.190236985823, 0.0489119642646:
+2023-02-08 14:45:36,729 - INFO - ~~> Best Instance: 1:`compoundstmt_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kojingharang/outer_temp/kojingharang/3264486_5736519012712448_kojingharang.cpp -strategy=2 -seed=1993 -- ...` successfull with 0.2473 (127) [Before:0.3017(127)]
+2023-02-08 14:56:35,687 - INFO - Final Root Score at 2th-Iter: 0.185255308571, 0.0565150165436:
+2023-02-08 14:56:41,360 - INFO - ~~> Best Instance: 2:`compoundstmt_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kojingharang/outer_temp/kojingharang/3264486_5736519012712448_kojingharang.cpp -strategy=1 -seed=1990 -- ...` successfull with 0.2473 (127) [Before:0.3017(127)]
+2023-02-08 15:06:44,544 - INFO - Final Root Score at 3th-Iter: 0.17881401153, 0.0605457215012:
+2023-02-08 15:06:54,145 - INFO - ~~> Best Instance: 3:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kojingharang/outer_temp/kojingharang/3264486_5736519012712448_kojingharang.cpp -strategy=stdintofreopen -seed=1234 -- ...` successfull with 0.2059 (127) [Before:0.3017(127)]
+2023-02-08 15:16:57,072 - INFO - Final Root Score at 4th-Iter: 0.162751323859, 0.0446925892654:
+2023-02-08 15:17:02,538 - INFO - ~~> Best Instance: 4:`sync_with_stdio_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kojingharang/outer_temp/kojingharang/3264486_5736519012712448_kojingharang.cpp -strategy=change_syncwithstdio -- ...` successfull with 0.182 (127) [Before:0.3017(127)]
+2023-02-08 15:22:19,399 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kojingharang/outer_temp/kojingharang/3264486_5736519012712448_kojingharang.cpp -from_declname="os" -into_declname="" -seed=4886 -- ...` successfull with 0.0823 (127) [Before:0.3017(127)]
+2023-02-08 15:22:25,869 - INFO - ~~> Best Instance: winner_1:`unused_functions_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kojingharang/outer_temp/kojingharang/3264486_5736519012712448_kojingharang.cpp -strategy=remove_function -remove-overloaded=false -seed=2116 -- ...` successfull with 0.036 (5) [Before:0.3017(127)]
+2023-02-08 15:22:25,890 - INFO - -----> SUCCESS <----- from kojingharang to kojingharang 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:24:01,776 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kyleyip/outer_temp/kyleyip/3264486_5736519012712448_kyleyip.cpp -from_declname="ans" -into_declname="" -seed=1726 -- ...` successfull with 0.1141 (129) [Before:0.2412(129)]
+2023-02-08 15:24:07,510 - INFO - ~~> Best Instance: winner_1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kyleyip/outer_temp/kyleyip/3264486_5736519012712448_kyleyip.cpp -strategy=scanftocin -seed=2341 -all=True -- ...` successfull with 0.0679 (93) [Before:0.2412(129)]
+2023-02-08 15:24:07,546 - INFO - -----> SUCCESS <----- from kyleyip to kyleyip 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:27:08,641 - INFO - ~~> Best Instance: winner_0:`input_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_11_Usenix_RF_1.0_False_MCTS_Classic/kzoacn/outer_temp/kzoacn/3264486_5736519012712448_kzoacn.cpp -strategy=cintoscanf -seed=1160 -all=True -- ...` successfull with 0.1302 (182) [Before:0.2232(130)]
+2023-02-08 15:27:08,725 - INFO - -----> SUCCESS <----- from kzoacn to kzoacn 
+
+Attack finished on 3264486_5736519012712448_11
+0.0 33.0
+0.0 22.0
+Could collect authors: Got 10
+Their names are: dict_keys(['qingl', 'rodz', 'sam721', 'sammyMaX', 'satos', 'sazerterus', 'siqisiqi', 'skavurskaa', 'sohelH', 'spencer'])
+***********************************
+Attack on 10 pairs
+***********************************
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 14:57:23,471 - INFO - ~~> Best Instance: winner_0:`typedef_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/qingl/outer_temp/qingl/3264486_5736519012712448_qingl.cpp -strategy=replacetypedef -selection=bottomtotop -- ...` successfull with 0.1206 (133) [Before:0.3306(156)]
+2023-02-08 14:57:23,608 - INFO - -----> SUCCESS <----- from qingl to qingl 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:01:12,934 - INFO - ~~> Best Instance: winner_0:`while_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/rodz/outer_temp/rodz/3264486_5736519012712448_rodz.cpp -seed=2815 -- ...` successfull with 0.1775 (191) [Before:0.1837(157)]
+2023-02-08 15:01:12,994 - INFO - -----> SUCCESS <----- from rodz to rodz 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:04:50,829 - INFO - ~~> Best Instance: winner_0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/sam721/outer_temp/sam721/3264486_5736519012712448_sam721.cpp -strategy=stdintofreopen -seed=522 -- ...` successfull with 0.074 (117) [Before:0.1556(158)]
+2023-02-08 15:04:50,977 - INFO - -----> SUCCESS <----- from sam721 to sam721 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:07:39,741 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/sammyMaX/outer_temp/sammyMaX/3264486_5736519012712448_sammyMaX.cpp -from_declname="t" -into_declname="" -seed=528 -- ...` successfull with 0.1271 (43) [Before:0.2936(159)]
+2023-02-08 15:07:39,804 - INFO - -----> SUCCESS <----- from sammyMaX to sammyMaX 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:14:48,180 - ERROR - 4-th MCTS Sequence failed at the end due to: Output file has changed!!
+
+2023-02-08 15:16:46,994 - ERROR - 1-th MCTS Sequence failed at the end due to: Output file has changed!!
+
+2023-02-08 15:17:02,999 - INFO - Final Root Score at 0th-Iter: 0.221685977783, 0.0761287610551:
+2023-02-08 15:17:07,992 - INFO - ~~> Best Instance: 0:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/satos/outer_temp/satos/3264486_5736519012712448_satos.cpp -strategy=scanftocin -seed=2559 -all=True -- ...` successfull with 0.1813 (160) [Before:0.3046(160)]
+2023-02-08 15:19:30,550 - ERROR - 0-th MCTS Sequence failed at the end due to: Output file has changed!!
+
+2023-02-08 15:24:40,327 - INFO - Final Root Score at 1th-Iter: 0.1689911109, 0.0227399876972:
+2023-02-08 15:24:45,354 - INFO - ~~> Best Instance: 1:`input_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/satos/outer_temp/satos/3264486_5736519012712448_satos.cpp -strategy=stdintofreopen -seed=1729 -- ...` successfull with 0.1397 (160) [Before:0.3046(160)]
+2023-02-08 15:25:31,835 - ERROR - 39-th MCTS Sequence failed at the end due to: Output file has changed!!
+
+2023-02-08 15:27:27,318 - INFO - ~~> Best Instance: winner_0:`output_cstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/satos/outer_temp/satos/3264486_5736519012712448_satos.cpp -strategy=stdouttofreopen -seed=2119 -- ...` successfull with 0.1029 (54) [Before:0.3046(160)]
+2023-02-08 15:27:27,353 - INFO - -----> SUCCESS <----- from satos to satos 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:31:23,745 - INFO - ~~> Best Instance: winner_0:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/sazerterus/outer_temp/sazerterus/3264486_5736519012712448_sazerterus.cpp -strategy=couttoprintf -seed=3961 -all=True -- ...` successfull with 0.1961 (170) [Before:0.2618(162)]
+2023-02-08 15:31:23,879 - INFO - -----> SUCCESS <----- from sazerterus to sazerterus 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:33:06,534 - INFO - ~~> Best Instance: winner_0:`datastructure_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/siqisiqi/outer_temp/siqisiqi/3264486_5736519012712448_siqisiqi.cpp -strategy=5 -seed=3492 -- ...` successfull with 0.1011 (171) [Before:0.2022(164)]
+2023-02-08 15:33:06,569 - INFO - -----> SUCCESS <----- from siqisiqi to siqisiqi 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:36:52,765 - INFO - ~~> Best Instance: winner_0:`declname_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/skavurskaa/outer_temp/skavurskaa/3264486_5736519012712448_skavurskaa.cpp -from_declname="T" -into_declname="" -seed=2978 -- ...` successfull with 0.0177 (1) [Before:0.2612(165)]
+2023-02-08 15:36:52,880 - INFO - -----> SUCCESS <----- from skavurskaa to skavurskaa 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:41:29,452 - INFO - ~~> Best Instance: winner_0:`return_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/sohelH/outer_temp/sohelH/3264486_5736519012712448_sohelH.cpp -strategy=S_IntLiteral -seed=2341 -- ...` successfull with 0.0703 (140) [Before:0.2258(166)]
+2023-02-08 15:41:39,747 - INFO - ~~> Best Instance: winner_1:`for_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/sohelH/outer_temp/sohelH/3264486_5736519012712448_sohelH.cpp -seed=436 -- ...` successfull with 0.0709 (140) [Before:0.2258(166)]
+2023-02-08 15:41:39,812 - INFO - -----> SUCCESS <----- from sohelH to sohelH 
+
+IWYU_PATH not set. I'll skip external transformer: Include-what-you-use
+
+2023-02-08 15:45:07,859 - INFO - ~~> Best Instance: winner_0:`output_cplusplusstyle_transformer /home/seal12/Downloads/ramdisk/blackbox_3264486_5736519012712448_14_Usenix_RF_1.0_False_MCTS_Classic/spencer/outer_temp/spencer/3264486_5736519012712448_spencer.cpp -strategy=couttoprintf -seed=2665 -all=True -- ...` successfull with 0.1254 (42) [Before:0.2372(167)]
+2023-02-08 15:45:07,979 - INFO - -----> SUCCESS <----- from spencer to spencer 
+
+Attack finished on 3264486_5736519012712448_14

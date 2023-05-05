@@ -1,0 +1,660 @@
+No splits: 8
+TRAIN: [1 2 3 4 5 6 7] TEST: [0]
+TRAIN: [0 2 3 4 5 6 7] TEST: [1]
+TRAIN: [3 4 5 6] TEST: [0 1 2]
+Length of features: 800
+TRAIN: [0 1 2 5 6] TEST: [3 4]
+Length of features: 800
+TRAIN: [0 1 2 3 4] TEST: [5 6]
+Length of features: 800
+Length of features: 800
+No splits: 8
+TRAIN: [1 2 3 4 5 6 7] TEST: [0]
+TRAIN: [0 2 3 4 5 6 7] TEST: [1]
+TRAIN: [3 4 5 6] TEST: [0 1 2]
+Length of features: 800
+TRAIN: [0 1 2 5 6] TEST: [3 4]
+Length of features: 800
+TRAIN: [0 1 2 3 4] TEST: [5 6]
+Length of features: 800
+Length of features: 800
+No splits: 8
+TRAIN: [1 2 3 4 5 6 7] TEST: [0]
+TRAIN: [0 2 3 4 5 6 7] TEST: [1]
+TRAIN: [3 4 5 6] TEST: [0 1 2]
+Length of features: 800
+TRAIN: [0 1 2 5 6] TEST: [3 4]
+Length of features: 800
+TRAIN: [0 1 2 3 4] TEST: [5 6]
+Length of features: 800
+Length of features: 800
+Epoch 00024: early stopping
+Epoch 00067: early stopping
+Epoch 00043: early stopping
+[0.050000000000000003, 0.025000000000000001, 0.050000000000000003] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 5665.701 ms)
+Epoch 00060: early stopping
+Epoch 00022: early stopping
+Epoch 00021: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 6631.573 ms)
+Epoch 00041: early stopping
+Epoch 00035: early stopping
+Epoch 00032: early stopping
+[0.016666666666666666, 0.025000000000000001, 0.0] (mean:0.01388888888888889) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 8209.447 ms)
+Epoch 00032: early stopping
+Epoch 00024: early stopping
+Epoch 00023: early stopping
+[0.10000000000000001, 0.025000000000000001, 0.0] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 10202.134 ms)
+Epoch 00022: early stopping
+Epoch 00033: early stopping
+Epoch 00027: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.0] (mean:0.03333333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 11749.896 ms)
+Epoch 00035: early stopping
+Epoch 00048: early stopping
+Epoch 00031: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.074999999999999997] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 13477.053 ms)
+Epoch 00037: early stopping
+Epoch 00030: early stopping
+Epoch 00025: early stopping
+[0.050000000000000003, 0.074999999999999997, 0.025000000000000001] (mean:0.049999999999999996) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 14402.792 ms)
+Epoch 00038: early stopping
+Epoch 00030: early stopping
+Epoch 00025: early stopping
+[0.033333333333333333, 0.025000000000000001, 0.074999999999999997] (mean:0.044444444444444446) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 15276.097 ms)
+Epoch 00027: early stopping
+Epoch 00022: early stopping
+Epoch 00022: early stopping
+[0.050000000000000003, 0.0, 0.0] (mean:0.016666666666666666) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 16220.319 ms)
+Epoch 00024: early stopping
+Epoch 00028: early stopping
+Epoch 00029: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.10000000000000001] (mean:0.06666666666666667) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 18713.193 ms)
+Epoch 00021: early stopping
+Epoch 00024: early stopping
+Epoch 00048: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.025000000000000001] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 19255.442 ms)
+Epoch 00041: early stopping
+Epoch 00038: early stopping
+Epoch 00031: early stopping
+[0.050000000000000003, 0.10000000000000001, 0.050000000000000003] (mean:0.06666666666666667) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 21707.478 ms)
+Epoch 00046: early stopping
+Epoch 00032: early stopping
+Epoch 00023: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 22559.897 ms)
+Epoch 00037: early stopping
+Epoch 00022: early stopping
+Epoch 00021: early stopping
+[0.10000000000000001, 0.074999999999999997, 0.0] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 24141.766 ms)
+Epoch 00024: early stopping
+Epoch 00040: early stopping
+Epoch 00021: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.050000000000000003] (mean:0.04444444444444445) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 26782.727 ms)
+Epoch 00028: early stopping
+Epoch 00033: early stopping
+Epoch 00050: early stopping
+[0.033333333333333333, 0.0, 0.050000000000000003] (mean:0.02777777777777778) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 27099.302 ms)
+Epoch 00023: early stopping
+Epoch 00024: early stopping
+Epoch 00031: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.025000000000000001] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 28783.479 ms)
+Epoch 00043: early stopping
+Epoch 00027: early stopping
+Epoch 00032: early stopping
+[0.0, 0.025000000000000001, 0.0] (mean:0.008333333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 31555.297 ms)
+Epoch 00075: early stopping
+Epoch 00023: early stopping
+Epoch 00027: early stopping
+[0.016666666666666666, 0.025000000000000001, 0.050000000000000003] (mean:0.030555555555555558) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 32889.549 ms)
+Epoch 00023: early stopping
+Epoch 00023: early stopping
+Epoch 00039: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 34555.623 ms)
+Epoch 00051: early stopping
+Epoch 00050: early stopping
+Epoch 00026: early stopping
+[0.050000000000000003, 0.025000000000000001, 0.10000000000000001] (mean:0.05833333333333334) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 35573.983 ms)
+Epoch 00047: early stopping
+Epoch 00044: early stopping
+Epoch 00086: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 37898.842 ms)
+Epoch 00043: early stopping
+Epoch 00054: early stopping
+Epoch 00033: early stopping
+[0.050000000000000003, 0.074999999999999997, 0.050000000000000003] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 40547.481 ms)
+Epoch 00026: early stopping
+Epoch 00033: early stopping
+Epoch 00023: early stopping
+[0.066666666666666666, 0.0, 0.025000000000000001] (mean:0.030555555555555558) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 40887.088 ms)
+No splits: 8
+TRAIN: [1 2 3 4 5 6 7] TEST: [0]
+TRAIN: [0 2 3 4 5 6 7] TEST: [1]
+TRAIN: [3 4 5 6] TEST: [0 1 2]
+Length of features: 800
+TRAIN: [0 1 2 5 6] TEST: [3 4]
+Length of features: 800
+TRAIN: [0 1 2 3 4] TEST: [5 6]
+Length of features: 800
+Length of features: 800
+Epoch 00028: early stopping
+Epoch 00048: early stopping
+Epoch 00022: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.050000000000000003] (mean:0.04444444444444445) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 5347.166 ms)
+Epoch 00026: early stopping
+Epoch 00048: early stopping
+Epoch 00072: early stopping
+[0.050000000000000003, 0.0, 0.074999999999999997] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 6081.731 ms)
+Epoch 00065: early stopping
+Epoch 00025: early stopping
+Epoch 00027: early stopping
+[0.050000000000000003, 0.10000000000000001, 0.050000000000000003] (mean:0.06666666666666667) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 7323.428 ms)
+Epoch 00049: early stopping
+Epoch 00024: early stopping
+Epoch 00025: early stopping
+[0.050000000000000003, 0.074999999999999997, 0.050000000000000003] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 8366.704 ms)
+Epoch 00022: early stopping
+Epoch 00025: early stopping
+Epoch 00031: early stopping
+[0.066666666666666666, 0.050000000000000003, 0.050000000000000003] (mean:0.05555555555555556) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 9489.070 ms)
+Epoch 00039: early stopping
+Epoch 00040: early stopping
+Epoch 00022: early stopping
+[0.083333333333333329, 0.050000000000000003, 0.074999999999999997] (mean:0.06944444444444443) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 11548.780 ms)
+Epoch 00024: early stopping
+Epoch 00023: early stopping
+Epoch 00047: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 13589.330 ms)
+Epoch 00037: early stopping
+Epoch 00033: early stopping
+Epoch 00023: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 16279.710 ms)
+Epoch 00068: early stopping
+Epoch 00022: early stopping
+Epoch 00023: early stopping
+[0.10000000000000001, 0.025000000000000001, 0.050000000000000003] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 17753.705 ms)
+Epoch 00022: early stopping
+Epoch 00036: early stopping
+Epoch 00026: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.050000000000000003] (mean:0.04444444444444445) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 20161.977 ms)
+Epoch 00046: early stopping
+Epoch 00039: early stopping
+Epoch 00024: early stopping
+[0.083333333333333329, 0.0, 0.125] (mean:0.06944444444444443) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 19483.745 ms)
+Epoch 00042: early stopping
+Epoch 00043: early stopping
+Epoch 00046: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 21223.207 ms)
+Epoch 00023: early stopping
+Epoch 00039: early stopping
+Epoch 00021: early stopping
+[0.066666666666666666, 0.050000000000000003, 0.050000000000000003] (mean:0.05555555555555556) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 23052.476 ms)
+Epoch 00025: early stopping
+Epoch 00023: early stopping
+Epoch 00028: early stopping
+[0.083333333333333329, 0.050000000000000003, 0.050000000000000003] (mean:0.061111111111111116) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 24160.617 ms)
+Epoch 00022: early stopping
+Epoch 00023: early stopping
+Epoch 00036: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.050000000000000003] (mean:0.04444444444444445) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 26457.990 ms)
+Epoch 00035: early stopping
+Epoch 00036: early stopping
+Epoch 00026: early stopping
+[0.016666666666666666, 0.025000000000000001, 0.074999999999999997] (mean:0.03888888888888889) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 27290.313 ms)
+Epoch 00030: early stopping
+Epoch 00022: early stopping
+Epoch 00030: early stopping
+[0.050000000000000003, 0.025000000000000001, 0.050000000000000003] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 28794.705 ms)
+Epoch 00033: early stopping
+Epoch 00084: early stopping
+Epoch 00021: early stopping
+[0.0, 0.050000000000000003, 0.0] (mean:0.016666666666666666) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 30766.199 ms)
+Epoch 00027: early stopping
+Epoch 00022: early stopping
+Epoch 00023: early stopping
+[0.050000000000000003, 0.074999999999999997, 0.050000000000000003] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 33304.947 ms)
+Epoch 00022: early stopping
+Epoch 00030: early stopping
+Epoch 00027: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.050000000000000003] (mean:0.04444444444444445) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 34449.458 ms)
+Epoch 00025: early stopping
+Epoch 00030: early stopping
+Epoch 00042: early stopping
+[0.050000000000000003, 0.074999999999999997, 0.050000000000000003] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 35773.122 ms)
+Epoch 00038: early stopping
+Epoch 00037: early stopping
+Epoch 00044: early stopping
+[0.066666666666666666, 0.025000000000000001, 0.074999999999999997] (mean:0.05555555555555556) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 37284.516 ms)
+Epoch 00050: early stopping
+Epoch 00073: early stopping
+Epoch 00023: early stopping
+[0.050000000000000003, 0.025000000000000001, 0.025000000000000001] (mean:0.03333333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 40650.823 ms)
+Epoch 00058: early stopping
+Epoch 00025: early stopping
+Epoch 00029: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.025000000000000001] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 41409.967 ms)
+Epoch 00023: early stopping
+Epoch 00030: early stopping
+Epoch 00033: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 42702.902 ms)
+Epoch 00043: early stopping
+Epoch 00022: early stopping
+Epoch 00036: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 39885.916 ms)
+Epoch 00029: early stopping
+Epoch 00031: early stopping
+Epoch 00034: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 41647.107 ms)
+Epoch 00022: early stopping
+Epoch 00021: early stopping
+Epoch 00031: early stopping
+[0.033333333333333333, 0.025000000000000001, 0.074999999999999997] (mean:0.044444444444444446) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 44108.958 ms)
+Epoch 00061: early stopping
+Epoch 00022: early stopping
+Epoch 00026: early stopping
+[0.083333333333333329, 0.050000000000000003, 0.0] (mean:0.044444444444444446) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 49450.806 ms)
+Epoch 00021: early stopping
+Epoch 00030: early stopping
+Epoch 00027: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.0] (mean:0.02777777777777778) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 49982.651 ms)
+Best param: {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32}  with  (0.069444444444444434, 0.014163943093313288)
+Epoch 1/200
+
+128/140 [==========================>...] - ETA: 2s - loss: 3.1247 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 29s 207ms/step - loss: 3.1543 - acc: 0.0357 - categorical_accuracy: 0.0357
+Epoch 2/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9997 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 248us/step - loss: 3.0633 - acc: 0.0357 - categorical_accuracy: 0.0357
+Epoch 3/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9999 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 288us/step - loss: 2.9955 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 4/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9999 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 241us/step - loss: 3.0745 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 5/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9969 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 260us/step - loss: 3.1057 - acc: 0.0643 - categorical_accuracy: 0.0643
+Epoch 6/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0487 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 307us/step - loss: 3.0343 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 7/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0312 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 248us/step - loss: 3.0378 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 8/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0433 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 263us/step - loss: 3.0450 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 9/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0606 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 279us/step - loss: 3.0897 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 10/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9999 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 244us/step - loss: 3.0003 - acc: 0.0571 - categorical_accuracy: 0.0571
+Epoch 11/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0000 - acc: 0.0625 - categorical_accuracy: 0.0625
+140/140 [==============================] - 0s 315us/step - loss: 3.0373 - acc: 0.0571 - categorical_accuracy: 0.0571
+Epoch 12/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0219 - acc: 0.0703 - categorical_accuracy: 0.0703
+140/140 [==============================] - 0s 267us/step - loss: 3.0193 - acc: 0.0643 - categorical_accuracy: 0.0643
+Epoch 13/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0000 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 250us/step - loss: 2.9920 - acc: 0.0714 - categorical_accuracy: 0.0714
+Epoch 14/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0007 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 309us/step - loss: 3.0783 - acc: 0.0357 - categorical_accuracy: 0.0357
+Epoch 15/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0001 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 248us/step - loss: 3.0066 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 16/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0320 - acc: 0.0703 - categorical_accuracy: 0.0703
+140/140 [==============================] - 0s 275us/step - loss: 3.0383 - acc: 0.0714 - categorical_accuracy: 0.0714
+Epoch 17/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0003 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 300us/step - loss: 3.0017 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 18/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9983 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 276us/step - loss: 2.9687 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 19/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0003 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 277us/step - loss: 3.0447 - acc: 0.0571 - categorical_accuracy: 0.0571
+Epoch 20/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0583 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 332us/step - loss: 3.1048 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 21/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.6433 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 295us/step - loss: 3.5982 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 22/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.6052 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 295us/step - loss: 3.5755 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 23/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0003 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 286us/step - loss: 3.0062 - acc: 0.0357 - categorical_accuracy: 0.0357
+Epoch 24/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.6629 - acc: 0.0703 - categorical_accuracy: 0.0703
+140/140 [==============================] - 0s 281us/step - loss: 3.6048 - acc: 0.0714 - categorical_accuracy: 0.0714
+Epoch 25/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.5287 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 255us/step - loss: 3.5216 - acc: 0.0571 - categorical_accuracy: 0.0571
+Epoch 26/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9973 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 275us/step - loss: 2.9916 - acc: 0.0714 - categorical_accuracy: 0.0714
+Epoch 27/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0220 - acc: 0.0703 - categorical_accuracy: 0.0703
+140/140 [==============================] - 0s 284us/step - loss: 3.0381 - acc: 0.0643 - categorical_accuracy: 0.0643
+Epoch 28/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0347 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 281us/step - loss: 3.0850 - acc: 0.0357 - categorical_accuracy: 0.0357
+Epoch 29/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0443 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 313us/step - loss: 3.1325 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 30/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.7175 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 303us/step - loss: 3.7039 - acc: 0.0357 - categorical_accuracy: 0.0357
+Epoch 31/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0239 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 309us/step - loss: 3.0283 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 32/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0350 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 322us/step - loss: 3.0441 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 33/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0338 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 331us/step - loss: 3.0499 - acc: 0.0571 - categorical_accuracy: 0.0571
+Epoch 34/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0553 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 349us/step - loss: 3.1073 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 35/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0406 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 302us/step - loss: 3.0751 - acc: 0.0357 - categorical_accuracy: 0.0357
+Epoch 36/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.5606 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 346us/step - loss: 3.5085 - acc: 0.0571 - categorical_accuracy: 0.0571
+Epoch 37/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.5757 - acc: 0.0703 - categorical_accuracy: 0.0703
+140/140 [==============================] - 0s 345us/step - loss: 3.5316 - acc: 0.0643 - categorical_accuracy: 0.0643
+Epoch 38/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0355 - acc: 0.0312 - categorical_accuracy: 0.0312
+140/140 [==============================] - 0s 317us/step - loss: 3.0258 - acc: 0.0286 - categorical_accuracy: 0.0286
+Epoch 00038: early stopping
+
+20/20 [==============================] - 12s 604ms/step
+DNN-Acc: 5.0% // RF-Acc: 5.0%
+TRAIN: [0 1 3 4 5 6 7] TEST: [2]
+TRAIN: [0 1 2 4 5 6 7] TEST: [3]
+TRAIN: [0 1 2 3 5 6 7] TEST: [4]
+TRAIN: [0 1 2 3 4 6 7] TEST: [5]
+TRAIN: [0 1 2 3 4 5 7] TEST: [6]
+TRAIN: [0 1 2 3 4 5 6] TEST: [7]
+{'3264486_5633382285312000': 0.050000000000000003}
+0.0
+No splits: 8
+TRAIN: [1 2 3 4 5 6 7] TEST: [0]
+TRAIN: [0 2 3 4 5 6 7] TEST: [1]
+TRAIN: [3 4 5 6] TEST: [0 1 2]
+Length of features: 800
+TRAIN: [0 1 2 5 6] TEST: [3 4]
+Length of features: 800
+TRAIN: [0 1 2 3 4] TEST: [5 6]
+Length of features: 800
+Length of features: 800
+Epoch 00033: early stopping
+Epoch 00035: early stopping
+Epoch 00039: early stopping
+[0.050000000000000003, 0.074999999999999997, 0.050000000000000003] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 5270.859 ms)
+Epoch 00029: early stopping
+Epoch 00033: early stopping
+Epoch 00044: early stopping
+[0.10000000000000001, 0.0, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 6023.243 ms)
+Epoch 00055: early stopping
+Epoch 00029: early stopping
+Epoch 00022: early stopping
+[0.083333333333333329, 0.050000000000000003, 0.050000000000000003] (mean:0.061111111111111116) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 7208.294 ms)
+Epoch 00023: early stopping
+Epoch 00026: early stopping
+Epoch 00024: early stopping
+[0.050000000000000003, 0.074999999999999997, 0.050000000000000003] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 8642.846 ms)
+Epoch 00021: early stopping
+Epoch 00034: early stopping
+Epoch 00028: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.025000000000000001] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 100, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 9825.346 ms)
+Epoch 00042: early stopping
+Epoch 00024: early stopping
+Epoch 00024: early stopping
+[0.066666666666666666, 0.10000000000000001, 0.025000000000000001] (mean:0.0638888888888889) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 11551.013 ms)
+Epoch 00022: early stopping
+Epoch 00040: early stopping
+Epoch 00040: early stopping
+[0.11666666666666667, 0.074999999999999997, 0.074999999999999997] (mean:0.08888888888888889) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 13252.916 ms)
+Epoch 00028: early stopping
+Epoch 00022: early stopping
+Epoch 00051: early stopping
+[0.050000000000000003, 0.025000000000000001, 0.050000000000000003] (mean:0.041666666666666664) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 15137.785 ms)
+Epoch 00035: early stopping
+Epoch 00030: early stopping
+Epoch 00023: early stopping
+[0.066666666666666666, 0.050000000000000003, 0.0] (mean:0.03888888888888889) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 16931.325 ms)
+Epoch 00022: early stopping
+Epoch 00032: early stopping
+Epoch 00024: early stopping
+[0.016666666666666666, 0.025000000000000001, 0.050000000000000003] (mean:0.030555555555555558) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 19275.700 ms)
+Epoch 00049: early stopping
+Epoch 00021: early stopping
+Epoch 00030: early stopping
+[0.033333333333333333, 0.074999999999999997, 0.074999999999999997] (mean:0.061111111111111116) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 19470.114 ms)
+Epoch 00036: early stopping
+Epoch 00027: early stopping
+Epoch 00036: early stopping
+[0.066666666666666666, 0.025000000000000001, 0.050000000000000003] (mean:0.04722222222222222) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 21737.646 ms)
+Epoch 00056: early stopping
+Epoch 00026: early stopping
+Epoch 00038: early stopping
+[0.016666666666666666, 0.025000000000000001, 0.050000000000000003] (mean:0.030555555555555558) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 24555.762 ms)
+Epoch 00034: early stopping
+Epoch 00034: early stopping
+Epoch 00022: early stopping
+[0.10000000000000001, 0.050000000000000003, 0.050000000000000003] (mean:0.06666666666666667) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 23187.375 ms)
+Epoch 00021: early stopping
+Epoch 00031: early stopping
+Epoch 00023: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 300, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 38088.714 ms)
+Epoch 00043: early stopping
+Epoch 00047: early stopping
+Epoch 00040: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.050000000000000003] (mean:0.04444444444444445) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 54206.641 ms)
+Epoch 00060: early stopping
+Epoch 00040: early stopping
+Epoch 00051: early stopping
+[0.050000000000000003, 0.0, 0.050000000000000003] (mean:0.03333333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 28948.693 ms)
+Epoch 00028: early stopping
+Epoch 00029: early stopping
+Epoch 00034: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 28869.146 ms)
+Epoch 00033: early stopping
+Epoch 00022: early stopping
+Epoch 00022: early stopping
+[0.10000000000000001, 0.025000000000000001, 0.025000000000000001] (mean:0.049999999999999996) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 31737.530 ms)
+Epoch 00021: early stopping
+Epoch 00033: early stopping
+Epoch 00031: early stopping
+[0.066666666666666666, 0.050000000000000003, 0.050000000000000003] (mean:0.05555555555555556) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 350, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 32887.737 ms)
+Epoch 00056: early stopping
+Epoch 00045: early stopping
+Epoch 00035: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.025000000000000001] (mean:0.036111111111111115) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 33887.242 ms)
+Epoch 00025: early stopping
+Epoch 00024: early stopping
+Epoch 00023: early stopping
+[0.10000000000000001, 0.050000000000000003, 0.050000000000000003] (mean:0.06666666666666667) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 34400.196 ms)
+Epoch 00026: early stopping
+Epoch 00044: early stopping
+Epoch 00038: early stopping
+[0.016666666666666666, 0.025000000000000001, 0.050000000000000003] (mean:0.030555555555555558) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 36394.608 ms)
+Epoch 00029: early stopping
+Epoch 00025: early stopping
+Epoch 00023: early stopping
+[0.066666666666666666, 0.050000000000000003, 0.10000000000000001] (mean:0.07222222222222223) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 38716.128 ms)
+Epoch 00022: early stopping
+Epoch 00030: early stopping
+Epoch 00022: early stopping
+[0.033333333333333333, 0.025000000000000001, 0.050000000000000003] (mean:0.036111111111111115) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 450, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 39670.551 ms)
+Epoch 00053: early stopping
+Epoch 00037: early stopping
+Epoch 00022: early stopping
+[0.033333333333333333, 0.050000000000000003, 0.050000000000000003] (mean:0.04444444444444445) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 32} (time: 39930.882 ms)
+Epoch 00031: early stopping
+Epoch 00025: early stopping
+Epoch 00066: early stopping
+[0.050000000000000003, 0.074999999999999997, 0.050000000000000003] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128} (time: 43222.964 ms)
+Epoch 00023: early stopping
+Epoch 00046: early stopping
+Epoch 00054: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.074999999999999997] (mean:0.05833333333333333) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 196} (time: 46207.562 ms)
+Epoch 00056: early stopping
+Epoch 00024: early stopping
+Epoch 00024: early stopping
+[0.11666666666666667, 0.025000000000000001, 0.074999999999999997] (mean:0.07222222222222223) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 256} (time: 46873.638 ms)
+Epoch 00021: early stopping
+Epoch 00027: early stopping
+Epoch 00037: early stopping
+[0.050000000000000003, 0.050000000000000003, 0.050000000000000003] (mean:0.05000000000000001) by {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 500, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 288} (time: 48341.136 ms)
+Best param: {'RNN_denselayersno': 3, 'RNN_denseneurons': 360, 'RNN_dropout': 0.6, 'RNN_epochs': 200, 'RNN_l2reg': 1e-05, 'RNN_lstmlayersno': 3, 'RNN_nounits': 128}  with  (0.088888888888888892, 0.019641855032959656)
+Epoch 1/200
+
+128/140 [==========================>...] - ETA: 2s - loss: 3.0617 - acc: 0.0625 - categorical_accuracy: 0.0625
+140/140 [==============================] - 29s 204ms/step - loss: 3.0550 - acc: 0.0571 - categorical_accuracy: 0.0571
+Epoch 2/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0011 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 300us/step - loss: 3.0050 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 3/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0058 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 337us/step - loss: 3.0054 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 4/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0005 - acc: 0.0781 - categorical_accuracy: 0.0781
+140/140 [==============================] - 0s 260us/step - loss: 2.9901 - acc: 0.0786 - categorical_accuracy: 0.0786
+Epoch 5/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.1009 - acc: 0.0312 - categorical_accuracy: 0.0312
+140/140 [==============================] - 0s 607us/step - loss: 3.0923 - acc: 0.0286 - categorical_accuracy: 0.0286
+Epoch 6/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0415 - acc: 0.0703 - categorical_accuracy: 0.0703
+140/140 [==============================] - 0s 300us/step - loss: 3.0399 - acc: 0.0714 - categorical_accuracy: 0.0714
+Epoch 7/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0020 - acc: 0.0312 - categorical_accuracy: 0.0312
+140/140 [==============================] - 0s 294us/step - loss: 3.0019 - acc: 0.0286 - categorical_accuracy: 0.0286
+Epoch 8/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9981 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 284us/step - loss: 3.0061 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 9/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0055 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 838us/step - loss: 3.0052 - acc: 0.0571 - categorical_accuracy: 0.0571
+Epoch 10/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9992 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 332us/step - loss: 2.9993 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 11/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0392 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 328us/step - loss: 3.0445 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 12/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0038 - acc: 0.0234 - categorical_accuracy: 0.0234
+140/140 [==============================] - 0s 1ms/step - loss: 3.0035 - acc: 0.0286 - categorical_accuracy: 0.0286
+Epoch 13/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0289 - acc: 0.0625 - categorical_accuracy: 0.0625
+140/140 [==============================] - 0s 351us/step - loss: 3.0209 - acc: 0.0643 - categorical_accuracy: 0.0643
+Epoch 14/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0067 - acc: 0.0078 - categorical_accuracy: 0.0078
+140/140 [==============================] - 0s 333us/step - loss: 3.0063 - acc: 0.0071 - categorical_accuracy: 0.0071
+Epoch 15/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 2.9995 - acc: 0.0938 - categorical_accuracy: 0.0938
+140/140 [==============================] - 0s 285us/step - loss: 2.9997 - acc: 0.0929 - categorical_accuracy: 0.0929
+Epoch 16/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0016 - acc: 0.0234 - categorical_accuracy: 0.0234
+140/140 [==============================] - 0s 652us/step - loss: 3.0014 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 17/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0332 - acc: 0.0391 - categorical_accuracy: 0.0391
+140/140 [==============================] - 0s 372us/step - loss: 3.0300 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 18/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.6117 - acc: 0.0703 - categorical_accuracy: 0.0703
+140/140 [==============================] - 0s 303us/step - loss: 3.5594 - acc: 0.0643 - categorical_accuracy: 0.0643
+Epoch 19/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0035 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 932us/step - loss: 3.0078 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 20/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.6370 - acc: 0.0469 - categorical_accuracy: 0.0469
+140/140 [==============================] - 0s 360us/step - loss: 3.5817 - acc: 0.0429 - categorical_accuracy: 0.0429
+Epoch 21/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0090 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 264us/step - loss: 3.0028 - acc: 0.0643 - categorical_accuracy: 0.0643
+Epoch 22/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0386 - acc: 0.0703 - categorical_accuracy: 0.0703
+140/140 [==============================] - 0s 1ms/step - loss: 3.0463 - acc: 0.0643 - categorical_accuracy: 0.0643
+Epoch 23/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0044 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 322us/step - loss: 3.0041 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 24/200
+
+128/140 [==========================>...] - ETA: 0s - loss: 3.0096 - acc: 0.0547 - categorical_accuracy: 0.0547
+140/140 [==============================] - 0s 383us/step - loss: 3.0091 - acc: 0.0500 - categorical_accuracy: 0.0500
+Epoch 00024: early stopping
+
+20/20 [==============================] - 12s 604ms/step
+DNN-Acc: 5.0% // RF-Acc: 5.0%
+TRAIN: [0 1 3 4 5 6 7] TEST: [2]
+TRAIN: [0 1 2 4 5 6 7] TEST: [3]
+TRAIN: [0 1 2 3 5 6 7] TEST: [4]
+TRAIN: [0 1 2 3 4 6 7] TEST: [5]
+TRAIN: [0 1 2 3 4 5 7] TEST: [6]
+TRAIN: [0 1 2 3 4 5 6] TEST: [7]
+{'3264486_5633382285312000': 0.050000000000000003}
+0.0
