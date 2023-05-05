@@ -1,14 +1,15 @@
 # Misleading Authorship Attribution (MAA) Tatgeted Attack
 The objective of this repository is to share experiment results regarding MAA's targeted attack.
 
+
 ## Source code
 We utilized the same source code shared by [Erwin et al.](https://github.com/EQuiw/code-imitator).
 Also, we did not change any parameter or structures of the model.
 
 ## Dataset
 We utilized the same dataset shared by [Erwin et al.](https://github.com/EQuiw/code-imitator).
-To conduct this experiment, we ran targeted attack of MAA by utilizing thier source code and dataset.
-We then collected transformed codes under each author in [data/targeted_code_from_MAA](https://github.com/soohyeonc/MAA-Tatgeted-Attack/tree/main/data/targeted_code_from_MAA) (e.g., in 4yn folder, there are 19 transformed codes using 4yn's styles under each challenge).
+To conduct this experiment, we ran the targeted attack of MAA by utilizing thier source code and dataset.
+We then collected transformed codes under each author in [data/targeted_code_from_MAA](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/data) (e.g., in 4yn folder, there are 19 transformed codes based on 4yn's styles per each challenge).
 We utilized them to run code authorship attribtution (Caliskan-Islam's method) to exmaine targeted attack success rate.
 
 ## Targeted attack results 
