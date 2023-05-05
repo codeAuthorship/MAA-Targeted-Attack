@@ -34,7 +34,9 @@ Disclaimer: because Erwin et al used a random set of authors, the authors list h
 
 
 ## Running code:
-We used [Erwin et al](https://github.com/EQuiw/code-imitator) source code.
-Please read and follow [README.md](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/src/code-imitator-master/src) provided by Erwin et al.
+- First unzip [testing dataset](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/data/testing) and place them in [src/code-imitator-master/data/dataset_2017](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/src/code-imitator-master/data/dataset_2017).
+- Then please read and follow [README.md](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/src/code-imitator-master/src) provided by Erwin et al.
+
+
 
 
