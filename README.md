@@ -35,6 +35,10 @@ Disclaimer: because Erwin et al used a random set of authors, the authors list h
 
 ## Running code:
 - First unzip [testing dataset](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/data/testing) and place them in [src/code-imitator-master/data/dataset_2017](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/src/code-imitator-master/data/dataset_2017).
+- Run [extractfeatures_single.sh](https://github.com/GPTattribution/ChatGPTAttribution/blob/main/src/code-imitator-master/data/extractfeatures_single.sh) in src/code-imitator-master/data/
+
+        bash extractfeatures_single.sh
+        
 - Then please read and follow [README.md](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/src/code-imitator-master/src) provided by Erwin et al.
 
 ## Testing command:
