@@ -33,4 +33,8 @@ Findings:
 Disclaimer: because Erwin et al used a random set of authors, the authors list here does not match the authors presented in their paper, although that does not impact the soundness of the evaluation in our work.
 
 
+## Running code:
+We used [Erwin et al](https://github.com/EQuiw/code-imitator) source code.
+Please read and follow [README.md](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/src/code-imitator-master/src) provided by Erwin et al.
+
 
