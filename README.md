@@ -39,7 +39,8 @@ Disclaimer: because Erwin et al used a random set of authors, the authors list h
 
         bash extractfeatures_single.sh
         
-- For detailed set up process, please read and follow [README.md](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/src/code-imitator-master/src) provided by Erwin et al.
+- For the detailed set up process, please read and follow [README.md](https://github.com/codeAuthorship/MAA-Targeted-Attack/tree/main/src/code-imitator-master/src) provided by Erwin et al.
+
 
 ## Testing command:
     bash start_train_models_parallel.sh
